@@ -1,0 +1,5 @@
+﻿[INFO|collector_api.py:715] 2026-08-06 23:21:32,062 > 338840 와이바이오로직스 - daily_buy_list.`20250812` 업데이트
+[INFO|collector_api.py:715] 2026-08-06 23:21:32,147 > 338840 와이바이오로직스 - daily_buy_list.`20250813` 업데이트
+[INFO|collector_api.py:715] 2026-08-06 23:21:32,304 > 338840 와이바이오로직스 - daily_buy_list.`20250814` 업데이트
+[INFO|collector_api.py:715] 2026-08-06 23:21:32,421 > 338840 와이바이오로직스 - daily_buy_list.`20250818` 업데이트
+[INFO|collector_api.py:715] 2026-08-06 23:21:32,521 > 338840 와이바이오로직스 - daily_buy_list.`20250819` 업데이트

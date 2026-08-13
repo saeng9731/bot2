@@ -1,0 +1,61 @@
+[분봉(min_craw) 데이터 생성 방법]
+
+1. min_craw DB란?
+   - 종목별 1분봉(분별) 거래 데이터를 저장하는 데이터베이스
+   - 테이블명 = 종목명 (예: min_craw.삼성전자)
+   - 컬럼: date, close, open, high, low, volume, sum_volume + 이동평균(5~120분) 관련 컬럼들
+   - (일봉 daily_craw와 컬럼 구조가 동일함)
+
+2. 분봉 데이터가 만들어지는 코드 흐름
+   collector_v3.py
+    -> library/collector_api.py 의 Collector.code_update_check()
+       - 조건: setting_data 테이블의 min_crawler 컬럼 != 오늘 날짜(YYYYMMDD) 이어야 실행
+       - 주의! code_update_check() 안에서 분봉(min_crawler_check)은 "맨 마지막 단계"
+       - 실행 순서: 코드업데이트 -> 잔고/보유 -> 일봉 수집 -> 매수리스트/재무 -> 분봉 수집 -> KIND 크롤링
+    -> min_crawler_check()
+       -> db_to_min_craw()
+          - stock_item_all 테이블에서 check_min_crawler != 0 인 종목은 건너뛰고
+            나머지 전 종목(약 2759개)을 순회
+          - 각 종목마다 set_min_crawler_table() 호출
+       -> set_min_crawler_table(code, code_name)
+          - open_api.get_total_data_min() 으로 1분봉 데이터 조회
+          - 이동평균(5/10/20/40/60/80/100/120분) 컬럼 계산
+          - min_craw.{code_name} 테이블에 INSERT (없으면 새로 생성)
+          - 성공 시 stock_item_all.check_min_crawler = 1 로 갱신
+    -> 모든 종목 완료 후 setting_data.min_crawler = 오늘 날짜 로 갱신
+
+   library/kiwoom_api.py (서버용 REST API 버전)
+    get_total_data_min()
+     - TR: opt10080 (주식분봉차트조회) -> REST ka10080
+     - 틱범위 = 1 (1분봉), 수정주가구분 = 1
+     - REST 유량(rate limit) = 1  => 초당 1회만 호출 가능
+       -> 요청 전 반드시 1초 대기 + 429 재시도가 필요 (일봉 ka10081과 동일하게)
+
+   library/open_api.py (Windows용 OCX 버전)
+    get_total_data_min()
+     - 동일하게 opt10080 사용 (OCX는 1초에 5회 제한)
+
+3. 분봉이 안 만들어지는 원인 (실제 발생 사례)
+   1) 파이프라인상 분봉이 맨 마지막인데 앞단계(일봉 수집)가 너무 오래 걸림
+      - 일봉(daily_craw)은 종목당 약 24초, 2759종목이면 약 18시간 소요
+      - 15:32~23:59(권장 실행 시간) 안에는 분봉 단계까지 도달하지 못함
+      - 증상: 콜렉터 로그를 보면 내내 "db_to_daily_craw" 카운터(n/2759)만 찍힘
+   2) REST API(ka10080) rate limit 위반 -> HTTP 429 -> 콜렉터 크래시
+      - 유량=1(초당 1회)인데 get_total_data_min()이 0.35초 간격으로 요청
+      - 429 예외(RateLimitExceeded)가 try/except 없이 전파되어 콜렉터 전체 종료
+      - auto 재시작되지만 setting_data.min_crawler가 갱신되지 않아 매번 재시도
+      - 증상: 로그에 "REST API 요청 실패 [ka10080]: HTTP 429 ... 유량=1" 반복
+   3) (잠재 버그) 분봉 연속조회 시 self.ohlcv 초기화로 이전 페이지 데이터 소실
+      - _parse_opt10080()이 응답마다 self.ohlcv를 리셋하면 next-key 연속조회 데이터가 누락됨
+
+4. 해결/예방 방법
+   - get_total_data_min()에 1초 대기 + 429 지수백오프 재시도(5회) 추가  (2026-08-13 수정 완료)
+   - db_to_min_craw()에서 RateLimitExceeded 예외 시 60초 대기 후 다음 종목 진행 (콜렉터 크래시 방지, 수정 완료)
+   - 분봉은 일봉과 별도로 실행하거나(분봉만 전용 스크립트), 실행 시간을 새벽까지 연장
+   - 분봉 2759종목은 초당 1회 제한이라 최소 약 46분 + 연속조회 포함 1~2시간 소요
+
+5. 수동 초기화 방법 (분봉 전체 재수집)
+   - setting_data 테이블에서 min_crawler 컬럼을 0으로 변경 후 콜렉터 실행
+   - stock_item_all 테이블에서 check_min_crawler 컬럼을 0으로 변경 시 해당 종목만 재수집
+   - SELECT code_update, daily_crawler, min_crawler, today_buy_list FROM setting_data LIMIT 1;
+   - UPDATE setting_data SET min_crawler = '0' LIMIT 1;

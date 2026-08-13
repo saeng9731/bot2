@@ -1,0 +1,360 @@
+
+
+
+
+
+
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=EUC-KR" />
+<title>투자주의/경고/위험종목-투자경고종목(EXCEL)</title>
+</head>
+<body>
+
+<table cellpadding="0" cellspacing="1" class="bbs_tb" border=1>
+    <col width="5%"  />
+    <col width="10%" />
+    <col width="10%" />
+    <col width="9%"  />
+    <col width="9%"  />
+    <col width="9%"  />
+	<tr>
+		<th bgcolor="#66FF99">번호</th>
+		<th bgcolor="#66FF99">종목명</th>
+		<th bgcolor="#66FF99">종목코드</th>
+		<th bgcolor="#66FF99">공시일</th>
+		<th bgcolor="#66FF99">지정일</th>
+		<th bgcolor="#66FF99">해제일</th>
+	</tr>
+	
+	
+	
+	
+		
+			
+	<tr>
+		<td style="text-align:center;">29</td>
+		<td>LK삼양</td>
+		<td style='mso-number-format: "@";text-align:center;'>
+			225190
+		</td>		
+		<td style="text-align:center;">2026-08-13</td>
+		<td style="text-align:center;">2026-08-14</td>
+		<td style="text-align:center;">-</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">28</td>
+		<td>한탑</td>
+		<td style='mso-number-format: "@";text-align:center;'>
+			002680
+		</td>		
+		<td style="text-align:center;">2026-08-13</td>
+		<td style="text-align:center;">2026-08-14</td>
+		<td style="text-align:center;">-</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">27</td>
+		<td>휴림로봇</td>
+		<td style='mso-number-format: "@";text-align:center;'>
+			090710
+		</td>		
+		<td style="text-align:center;">2026-08-13</td>
+		<td style="text-align:center;">2026-08-14</td>
+		<td style="text-align:center;">-</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">26</td>
+		<td>뉴엔AI</td>
+		<td style='mso-number-format: "@";text-align:center;'>
+			463020
+		</td>		
+		<td style="text-align:center;">2026-08-12</td>
+		<td style="text-align:center;">2026-08-13</td>
+		<td style="text-align:center;">-</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">25</td>
+		<td>삼지전자</td>
+		<td style='mso-number-format: "@";text-align:center;'>
+			037460
+		</td>		
+		<td style="text-align:center;">2026-08-12</td>
+		<td style="text-align:center;">2026-08-13</td>
+		<td style="text-align:center;">-</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">24</td>
+		<td>애드포러스</td>
+		<td style='mso-number-format: "@";text-align:center;'>
+			397810
+		</td>		
+		<td style="text-align:center;">2026-08-12</td>
+		<td style="text-align:center;">2026-08-13</td>
+		<td style="text-align:center;">-</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">23</td>
+		<td>에스에이엠티</td>
+		<td style='mso-number-format: "@";text-align:center;'>
+			031330
+		</td>		
+		<td style="text-align:center;">2026-08-12</td>
+		<td style="text-align:center;">2026-08-13</td>
+		<td style="text-align:center;">-</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">22</td>
+		<td>우리로</td>
+		<td style='mso-number-format: "@";text-align:center;'>
+			046970
+		</td>		
+		<td style="text-align:center;">2026-08-12</td>
+		<td style="text-align:center;">2026-08-13</td>
+		<td style="text-align:center;">-</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">21</td>
+		<td>비케이홀딩스</td>
+		<td style='mso-number-format: "@";text-align:center;'>
+			050090
+		</td>		
+		<td style="text-align:center;">2026-08-11</td>
+		<td style="text-align:center;">2026-08-12</td>
+		<td style="text-align:center;">-</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">20</td>
+		<td>HLB이노베이션</td>
+		<td style='mso-number-format: "@";text-align:center;'>
+			024850
+		</td>		
+		<td style="text-align:center;">2026-08-10</td>
+		<td style="text-align:center;">2026-08-11</td>
+		<td style="text-align:center;">-</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">19</td>
+		<td>대한광통신</td>
+		<td style='mso-number-format: "@";text-align:center;'>
+			010170
+		</td>		
+		<td style="text-align:center;">2026-08-10</td>
+		<td style="text-align:center;">2026-08-11</td>
+		<td style="text-align:center;">-</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">18</td>
+		<td>듀오백</td>
+		<td style='mso-number-format: "@";text-align:center;'>
+			073190
+		</td>		
+		<td style="text-align:center;">2026-08-10</td>
+		<td style="text-align:center;">2026-08-11</td>
+		<td style="text-align:center;">-</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">17</td>
+		<td>상상인증권</td>
+		<td style='mso-number-format: "@";text-align:center;'>
+			001290
+		</td>		
+		<td style="text-align:center;">2026-08-10</td>
+		<td style="text-align:center;">2026-08-11</td>
+		<td style="text-align:center;">-</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">16</td>
+		<td>우리기술</td>
+		<td style='mso-number-format: "@";text-align:center;'>
+			032820
+		</td>		
+		<td style="text-align:center;">2026-08-10</td>
+		<td style="text-align:center;">2026-08-11</td>
+		<td style="text-align:center;">-</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">15</td>
+		<td>원익홀딩스</td>
+		<td style='mso-number-format: "@";text-align:center;'>
+			030530
+		</td>		
+		<td style="text-align:center;">2026-08-10</td>
+		<td style="text-align:center;">2026-08-11</td>
+		<td style="text-align:center;">-</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">14</td>
+		<td>빛과전자</td>
+		<td style='mso-number-format: "@";text-align:center;'>
+			069540
+		</td>		
+		<td style="text-align:center;">2026-08-07</td>
+		<td style="text-align:center;">2026-08-10</td>
+		<td style="text-align:center;">-</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">13</td>
+		<td>애니메디솔루션</td>
+		<td style='mso-number-format: "@";text-align:center;'>
+			390110
+		</td>		
+		<td style="text-align:center;">2026-08-07</td>
+		<td style="text-align:center;">2026-08-10</td>
+		<td style="text-align:center;">-</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">12</td>
+		<td>오이솔루션</td>
+		<td style='mso-number-format: "@";text-align:center;'>
+			138080
+		</td>		
+		<td style="text-align:center;">2026-08-07</td>
+		<td style="text-align:center;">2026-08-10</td>
+		<td style="text-align:center;">-</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">11</td>
+		<td>본느</td>
+		<td style='mso-number-format: "@";text-align:center;'>
+			226340
+		</td>		
+		<td style="text-align:center;">2026-08-05</td>
+		<td style="text-align:center;">2026-08-06</td>
+		<td style="text-align:center;">-</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">10</td>
+		<td>아이비젼웍스</td>
+		<td style='mso-number-format: "@";text-align:center;'>
+			469750
+		</td>		
+		<td style="text-align:center;">2026-08-05</td>
+		<td style="text-align:center;">2026-08-06</td>
+		<td style="text-align:center;">-</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">9</td>
+		<td>RF머트리얼즈</td>
+		<td style='mso-number-format: "@";text-align:center;'>
+			327260
+		</td>		
+		<td style="text-align:center;">2026-08-04</td>
+		<td style="text-align:center;">2026-08-05</td>
+		<td style="text-align:center;">-</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">8</td>
+		<td>광동헬스바이오</td>
+		<td style='mso-number-format: "@";text-align:center;'>
+			086220
+		</td>		
+		<td style="text-align:center;">2026-08-04</td>
+		<td style="text-align:center;">2026-08-05</td>
+		<td style="text-align:center;">-</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">7</td>
+		<td>삼현</td>
+		<td style='mso-number-format: "@";text-align:center;'>
+			437730
+		</td>		
+		<td style="text-align:center;">2026-08-03</td>
+		<td style="text-align:center;">2026-08-04</td>
+		<td style="text-align:center;">-</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">6</td>
+		<td>인바이츠바이오코아</td>
+		<td style='mso-number-format: "@";text-align:center;'>
+			216400
+		</td>		
+		<td style="text-align:center;">2026-07-31</td>
+		<td style="text-align:center;">2026-08-03</td>
+		<td style="text-align:center;">-</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">5</td>
+		<td>셀리드</td>
+		<td style='mso-number-format: "@";text-align:center;'>
+			299660
+		</td>		
+		<td style="text-align:center;">2026-07-29</td>
+		<td style="text-align:center;">2026-07-30</td>
+		<td style="text-align:center;">2026-08-14</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">4</td>
+		<td>아이씨에이치</td>
+		<td style='mso-number-format: "@";text-align:center;'>
+			368600
+		</td>		
+		<td style="text-align:center;">2026-07-28</td>
+		<td style="text-align:center;">2026-07-29</td>
+		<td style="text-align:center;">2026-08-12</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">3</td>
+		<td>케이엔알시스템</td>
+		<td style='mso-number-format: "@";text-align:center;'>
+			199430
+		</td>		
+		<td style="text-align:center;">2026-07-28</td>
+		<td style="text-align:center;">2026-07-29</td>
+		<td style="text-align:center;">2026-08-12</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">2</td>
+		<td>엔젠바이오</td>
+		<td style='mso-number-format: "@";text-align:center;'>
+			354200
+		</td>		
+		<td style="text-align:center;">2026-07-24</td>
+		<td style="text-align:center;">2026-07-27</td>
+		<td style="text-align:center;">2026-08-10</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">1</td>
+		<td>휴림에이텍</td>
+		<td style='mso-number-format: "@";text-align:center;'>
+			078590
+		</td>		
+		<td style="text-align:center;">2026-07-24</td>
+		<td style="text-align:center;">2026-07-27</td>
+		<td style="text-align:center;">2026-08-10</td>
+	</tr>
+			
+		
+		
+		
+</table>
+
+</body>
+</html>

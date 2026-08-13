@@ -1,0 +1,41 @@
+
+
+
+
+
+
+<html>
+<meta http-equiv="Content-Type" content="text/html; charset=EUC-KR" />
+<head>
+<title>투자주의/경고/위험종목-투자위험종목(EXCEL)</title>
+</head>
+<body>
+
+<table cellpadding="0" cellspacing="1" class="bbs_tb" border=1>
+    <col width="5%"  />
+    <col width="10%" />
+    <col width="10%" />
+    <col width="9%"  />
+    <col width="9%"  />
+    <col width="9%"  />
+	<tr>
+		<th bgcolor="#66FF99">번호</th>
+		<th bgcolor="#66FF99">종목명</th>
+		<th bgcolor="#66FF99">종목코드</th>
+		<th bgcolor="#66FF99">공시일</th>
+		<th bgcolor="#66FF99">지정일</th>
+		<th bgcolor="#66FF99">해제일</th>
+	</tr>
+	
+	
+	
+	
+		
+		
+	<tr><td style="text-align:center;" colspan="5">결과값이 없습니다.</td></tr>		
+		
+		
+</table>
+
+</body>
+</html>

@@ -1,0 +1,13 @@
+lxml
+PyMySQL
+selenium
+numpy
+sqlalchemy
+pandas
+dart_fss
+cryptography
+matplotlib
+scikit-learn
+tensorflow
+chromedriver-autoinstaller
+requests

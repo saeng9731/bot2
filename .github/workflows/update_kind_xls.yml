@@ -1,0 +1,40 @@
+name: update-kind-xls
+
+# KIND 종목 리스트를 GitHub Actions(클라우드)에서 다운로드해 GitHub 저장소에 반영
+# - 평일(월~금) UTC 06:40 = 한국시간 15:40 (서버 콜렉터 15:35 직후)
+# - 서버는 이 저장소에서 파일을 받아 사용 (서버→KIND 직접 접속 불필요)
+# - GitHub Actions 서버 IP에서 KIND 접속이 되는 경우에만 동작 (403이면 이 워크플로가 실패로 표시됨)
+
+on:
+  schedule:
+    - cron: '40 6 * * 1-5'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-kind-xls:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: KIND 파일 다운로드
+        run: python .github/scripts/update_kind_xls.py
+
+      - name: 다운로드 결과 확인
+        run: ls -la KIND_xls/
+
+      - name: Commit & Push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add KIND_xls/*.xls
+          if git diff --cached --quiet; then
+            echo "변경 사항 없음"
+          else
+            git commit -m "KIND 종목 리스트 갱신 $(date +%Y%m%d)"
+            git push
+          fi

@@ -1,0 +1,1292 @@
+
+
+
+
+
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=euc-kr" />
+<title>상장법인목록(EXCEL)</title>
+</head>
+<body>
+	<table cellpadding="0" cellspacing="1" class="bbs_tb" border="1">
+	
+	<col width="20%" />
+	<col width="10%" />
+	<col width="15%" />
+	<col width="20%" />
+	<col width="10%" />
+	<col width="5%" />
+	<col width="8%" />
+	<col width="7%" />
+	<col width="5%" />
+	<tr>
+		<th bgcolor="#66FF99" >회사명</th>
+		<th bgcolor="#66FF99" >시장구분</th>
+		<th bgcolor="#66FF99" >종목코드</th>
+		<th bgcolor="#66FF99" >업종</th>
+		<th bgcolor="#66FF99" >주요제품</th>
+		<th bgcolor="#66FF99" >상장일</th>
+		<th bgcolor="#66FF99" >결산월</th>
+		<th bgcolor="#66FF99" >대표자명</th>
+		<th bgcolor="#66FF99" >홈페이지</th>
+		<th bgcolor="#66FF99" >지역</th>
+	</tr>
+	
+		
+			
+	<tr>
+		<td>CU전자</td>
+		<td>
+			
+				
+						
+					코스닥
+					
+					
+						
+			
+		</td>
+		<td style="mso-number-format:'@';text-align:center;">056340</td>
+		<td>전자부품 제조업</td>
+		<td>브라운관모니터 부품(EAR, Shrinkage Band 등)</td>
+		<td style="text-align:center;">2002-11-08</td>
+		<td style="text-align:center;">12월</td>
+		<td>김현수</td>
+		<td>
+			http://www.dycrt.co.kr
+		</td>
+		<td >경기도</td>
+	</tr>
+			
+	<tr>
+		<td>금강제강</td>
+		<td>
+			
+				
+						
+					코스닥
+					
+					
+						
+			
+		</td>
+		<td style="mso-number-format:'@';text-align:center;">105070</td>
+		<td>1차 철강 제조업</td>
+		<td>인고트, 주강품</td>
+		<td style="text-align:center;">2010-02-02</td>
+		<td style="text-align:center;">12월</td>
+		<td>임윤용</td>
+		<td>
+			http://hdcs.co.kr
+		</td>
+		<td >경상남도</td>
+	</tr>
+			
+	<tr>
+		<td>선팩테크</td>
+		<td>
+			
+				
+						
+					코스닥
+					
+					
+						
+			
+		</td>
+		<td style="mso-number-format:'@';text-align:center;">054010</td>
+		<td>전자부품 제조업</td>
+		<td>DY부품, CONNECTOR</td>
+		<td style="text-align:center;">2001-10-23</td>
+		<td style="text-align:center;">12월</td>
+		<td>최민석</td>
+		<td>
+			http://www.ubtron.net
+		</td>
+		<td >강원특별자치도</td>
+	</tr>
+			
+	<tr>
+		<td>세림아이텍</td>
+		<td>
+			
+				
+						
+					코스닥
+					
+					
+						
+			
+		</td>
+		<td style="mso-number-format:'@';text-align:center;">033040</td>
+		<td></td>
+		<td>무선호출서비스</td>
+		<td style="text-align:center;">1997-08-18</td>
+		<td style="text-align:center;">12월</td>
+		<td>고영규</td>
+		<td>
+			http://www.selim.net
+		</td>
+		<td >대구광역시</td>
+	</tr>
+			
+	<tr>
+		<td>써니트렌드</td>
+		<td>
+			
+				
+						
+					코스닥
+					
+					
+						
+			
+		</td>
+		<td style="mso-number-format:'@';text-align:center;">035500</td>
+		<td>영화, 비디오물, 방송프로그램 제작 및 배급업</td>
+		<td>게임사업,정보화용역사업,전자상거래사업</td>
+		<td style="text-align:center;">1999-07-16</td>
+		<td style="text-align:center;">12월</td>
+		<td>박진호</td>
+		<td>
+			http://www.enterone.co.kr
+		</td>
+		<td >서울특별시</td>
+	</tr>
+			
+	<tr>
+		<td>팬텀엔터그룹</td>
+		<td>
+			
+				
+						
+					코스닥
+					
+					
+						
+			
+		</td>
+		<td style="mso-number-format:'@';text-align:center;">025460</td>
+		<td>기타 사업지원 서비스업</td>
+		<td>골프볼, 골프웨어</td>
+		<td style="text-align:center;">2003-01-29</td>
+		<td style="text-align:center;">12월</td>
+		<td>김옥평</td>
+		<td>
+			http://www.fantoment.com
+		</td>
+		<td >서울특별시</td>
+	</tr>
+			
+	<tr>
+		<td>나노트로닉스</td>
+		<td>
+			
+				
+						
+					코스닥
+					
+					
+						
+			
+		</td>
+		<td style="mso-number-format:'@';text-align:center;">010670</td>
+		<td>측정, 시험, 항해, 제어 및 기타 정밀기기 제조업; 광학기기 제외</td>
+		<td>침구류</td>
+		<td style="text-align:center;">1996-05-14</td>
+		<td style="text-align:center;">12월</td>
+		<td>한 진 호</td>
+		<td>
+			http://www.nano-tronix.com
+		</td>
+		<td >서울특별시</td>
+	</tr>
+			
+	<tr>
+		<td>네오퍼플</td>
+		<td>
+			
+				
+						
+					코스닥
+					
+					
+						
+			
+		</td>
+		<td style="mso-number-format:'@';text-align:center;">028090</td>
+		<td>음·식료품 및 담배 도매업</td>
+		<td>쨈, 난황 등 식음료제조</td>
+		<td style="text-align:center;">1996-11-29</td>
+		<td style="text-align:center;">12월</td>
+		<td>정상관</td>
+		<td>
+			http://www.neopurple.co.kr
+		</td>
+		<td >서울특별시</td>
+	</tr>
+			
+	<tr>
+		<td>디지텔</td>
+		<td>
+			
+				
+						
+					코스닥
+					
+					
+						
+			
+		</td>
+		<td style="mso-number-format:'@';text-align:center;">037740</td>
+		<td></td>
+		<td>ISDN 관련제품, ADSL 관련제품, 인터넷 전화기</td>
+		<td style="text-align:center;">2000-03-03</td>
+		<td style="text-align:center;">12월</td>
+		<td>이종석</td>
+		<td>
+			http://www.digitel.co.kr
+		</td>
+		<td >서울특별시</td>
+	</tr>
+			
+	<tr>
+		<td>베스트플로우</td>
+		<td>
+			
+				
+						
+					코스닥
+					
+					
+						
+			
+		</td>
+		<td style="mso-number-format:'@';text-align:center;">060410</td>
+		<td>기타 사업지원 서비스업</td>
+		<td>침입탐지시스템, 보안취약점분석, 헬프데스크</td>
+		<td style="text-align:center;">2002-05-07</td>
+		<td style="text-align:center;">12월</td>
+		<td>박 대 웅</td>
+		<td>
+			http://www.yuriint.com
+		</td>
+		<td >서울특별시</td>
+	</tr>
+			
+	<tr>
+		<td>블루젬디앤씨</td>
+		<td>
+			
+				
+						
+					코스닥
+					
+					
+						
+			
+		</td>
+		<td style="mso-number-format:'@';text-align:center;">053040</td>
+		<td>기타 화학제품 제조업</td>
+		<td>HFC망 장비</td>
+		<td style="text-align:center;">2001-08-09</td>
+		<td style="text-align:center;">12월</td>
+		<td>김형식</td>
+		<td>
+			http://bluegemdnc.co,kr
+		</td>
+		<td >서울특별시</td>
+	</tr>
+			
+	<tr>
+		<td>화인썬트로닉스</td>
+		<td>
+			
+				
+						
+					코스닥
+					
+					
+						
+			
+		</td>
+		<td style="mso-number-format:'@';text-align:center;">038520</td>
+		<td></td>
+		<td>전원공급장치</td>
+		<td style="text-align:center;">2000-03-03</td>
+		<td style="text-align:center;">12월</td>
+		<td>최숙종</td>
+		<td>
+			http://suntronix.com
+		</td>
+		<td >서울특별시</td>
+	</tr>
+			
+	<tr>
+		<td>C&중공업</td>
+		<td>
+			
+				
+					유가
+				
+					
+					
+						
+			
+		</td>
+		<td style="mso-number-format:'@';text-align:center;">008400</td>
+		<td>자동차 차체나 트레일러 제조업</td>
+		<td>컨테이너,탑차,윙바디,크레인,트레일러,모피의류,피혁의류,여성기성복 제조/부동산임대/오락,문화서비스업</td>
+		<td style="text-align:center;">1987-11-18</td>
+		<td style="text-align:center;">12월</td>
+		<td>임 갑 표</td>
+		<td>
+			http://www.cnhi.co.kr
+		</td>
+		<td >전라남도</td>
+	</tr>
+			
+	<tr>
+		<td>동서정보기술</td>
+		<td>
+			
+				
+						
+					코스닥
+					
+					
+						
+			
+		</td>
+		<td style="mso-number-format:'@';text-align:center;">055000</td>
+		<td></td>
+		<td>빌링시스템</td>
+		<td style="text-align:center;">2001-12-18</td>
+		<td style="text-align:center;">12월</td>
+		<td>김경수</td>
+		<td>
+			http://www.dsit.co.kr
+		</td>
+		<td >서울특별시</td>
+	</tr>
+			
+	<tr>
+		<td>에스브이에이치</td>
+		<td>
+			
+				
+						
+					코스닥
+					
+					
+						
+			
+		</td>
+		<td style="mso-number-format:'@';text-align:center;">046240</td>
+		<td>소프트웨어 개발 및 공급업</td>
+		<td>관리비 빌링처리, S/W 개발, 광고</td>
+		<td style="text-align:center;">2000-11-07</td>
+		<td style="text-align:center;">12월</td>
+		<td>김형기</td>
+		<td>
+			http://www.edu.co.kr
+		</td>
+		<td >서울특별시</td>
+	</tr>
+			
+	<tr>
+		<td>올에버</td>
+		<td>
+			
+				
+						
+					코스닥
+					
+					
+						
+			
+		</td>
+		<td style="mso-number-format:'@';text-align:center;">034970</td>
+		<td></td>
+		<td>패션 가발제조, 판매</td>
+		<td style="text-align:center;">1999-05-14</td>
+		<td style="text-align:center;">12월</td>
+		<td>고순종</td>
+		<td>
+			http://www.boyangkorea.co.kr
+		</td>
+		<td >서울특별시</td>
+	</tr>
+			
+	<tr>
+		<td>유니씨앤티</td>
+		<td>
+			
+				
+						
+					코스닥
+					
+					
+						
+			
+		</td>
+		<td style="mso-number-format:'@';text-align:center;">040780</td>
+		<td></td>
+		<td>시스템 통합</td>
+		<td style="text-align:center;">2000-06-27</td>
+		<td style="text-align:center;">12월</td>
+		<td>서용석</td>
+		<td>
+			http://www.unicnt.com
+		</td>
+		<td >서울특별시</td>
+	</tr>
+			
+	<tr>
+		<td>호성</td>
+		<td>
+			
+				
+						
+					코스닥
+					
+					
+						
+			
+		</td>
+		<td style="mso-number-format:'@';text-align:center;">035870</td>
+		<td></td>
+		<td>산업용 필터</td>
+		<td style="text-align:center;">2000-06-27</td>
+		<td style="text-align:center;">12월</td>
+		<td>이성복</td>
+		<td>
+			http://www.freechalholdings.com
+		</td>
+		<td ></td>
+	</tr>
+			
+	<tr>
+		<td>씨티네트웍스</td>
+		<td>
+			
+				
+					
+						
+					코넥스
+					
+						
+			
+		</td>
+		<td style="mso-number-format:'@';text-align:center;">189540</td>
+		<td>통신 및 방송 장비 제조업</td>
+		<td>광통신소재 및 광접속류품</td>
+		<td style="text-align:center;">2013-12-24</td>
+		<td style="text-align:center;">12월</td>
+		<td>이재성</td>
+		<td>
+			http://ctnetworks.co.kr
+		</td>
+		<td >충청남도</td>
+	</tr>
+			
+	<tr>
+		<td>대흥멀티통신</td>
+		<td>
+			
+				
+						
+					코스닥
+					
+					
+						
+			
+		</td>
+		<td style="mso-number-format:'@';text-align:center;">037250</td>
+		<td></td>
+		<td>방송및업무용영상음향시스템</td>
+		<td style="text-align:center;">1999-12-07</td>
+		<td style="text-align:center;">12월</td>
+		<td>이희영</td>
+		<td>
+			http://www.dmcc.co.kr
+		</td>
+		<td >서울특별시</td>
+	</tr>
+			
+	<tr>
+		<td>엘앤씨피</td>
+		<td>
+			
+				
+						
+					코스닥
+					
+					
+						
+			
+		</td>
+		<td style="mso-number-format:'@';text-align:center;">015390</td>
+		<td>기타 화학제품 제조업</td>
+		<td>감광지, 청사진도면복사기</td>
+		<td style="text-align:center;">2001-08-09</td>
+		<td style="text-align:center;">12월</td>
+		<td>최형석</td>
+		<td>
+			http://www.kysys.co.kr
+		</td>
+		<td >충청북도</td>
+	</tr>
+			
+	<tr>
+		<td>이론테크</td>
+		<td>
+			
+				
+						
+					코스닥
+					
+					
+						
+			
+		</td>
+		<td style="mso-number-format:'@';text-align:center;">034980</td>
+		<td></td>
+		<td>수자원관리용 SI</td>
+		<td style="text-align:center;">2000-07-13</td>
+		<td style="text-align:center;">12월</td>
+		<td>최경주</td>
+		<td>
+			http://WWW.ERONTECH.CO.KR
+		</td>
+		<td >서울특별시</td>
+	</tr>
+			
+	<tr>
+		<td>현대멀티캡</td>
+		<td>
+			
+				
+						
+					코스닥
+					
+					
+						
+			
+		</td>
+		<td style="mso-number-format:'@';text-align:center;">035910</td>
+		<td></td>
+		<td>Desktop PC 의 개발 / 생산 / 판매,Notebook PC 의 개발 / 생산 / 판매 etc.</td>
+		<td style="text-align:center;">1999-11-23</td>
+		<td style="text-align:center;">12월</td>
+		<td>최병진</td>
+		<td>
+			http://www.multicav.co.kr
+		</td>
+		<td >경기도</td>
+	</tr>
+			
+	<tr>
+		<td>모바일어플라이언스</td>
+		<td>
+			
+				
+						
+					코스닥
+					
+					
+						
+			
+		</td>
+		<td style="mso-number-format:'@';text-align:center;">087260</td>
+		<td>소프트웨어 개발 및 공급업</td>
+		<td>블랙박스, 내비게이션, HUD, ADAS</td>
+		<td style="text-align:center;">2017-02-24</td>
+		<td style="text-align:center;">12월</td>
+		<td>신욱호</td>
+		<td>
+			http://www.mobileappliance.co.kr
+		</td>
+		<td >경기도</td>
+	</tr>
+			
+	<tr>
+		<td>아이톡시</td>
+		<td>
+			
+				
+						
+					코스닥
+					
+					
+						
+			
+		</td>
+		<td style="mso-number-format:'@';text-align:center;">052770</td>
+		<td>소프트웨어 개발 및 공급업</td>
+		<td>게임</td>
+		<td style="text-align:center;">2002-08-22</td>
+		<td style="text-align:center;">12월</td>
+		<td>최치경</td>
+		<td>
+			http://www.itoxi.co.kr
+		</td>
+		<td >서울특별시</td>
+	</tr>
+			
+	<tr>
+		<td>이원컴포텍</td>
+		<td>
+			
+				
+						
+					코스닥
+					
+					
+						
+			
+		</td>
+		<td style="mso-number-format:'@';text-align:center;">088290</td>
+		<td>자동차 신품 부품 제조업</td>
+		<td> 에어서스펜션 시트/일반고정형 시트/스프링서스펜션 시트 </td>
+		<td style="text-align:center;">2009-12-01</td>
+		<td style="text-align:center;">12월</td>
+		<td>박주성</td>
+		<td>
+			http://www.ewonseat.co.kr
+		</td>
+		<td >전북특별자치도</td>
+	</tr>
+			
+	<tr>
+		<td>글로스텍</td>
+		<td>
+			
+				
+					유가
+				
+					
+					
+						
+			
+		</td>
+		<td style="mso-number-format:'@';text-align:center;">012410</td>
+		<td>기계장비 및 관련 물품 도매업</td>
+		<td>수정진동자,수정발진소자,수정발진기,수정필터,탄성실장소자주파수여과기 제조,도매,무역</td>
+		<td style="text-align:center;">1989-09-29</td>
+		<td style="text-align:center;">12월</td>
+		<td>최재균</td>
+		<td>
+			http://www.glostech.co.kr
+		</td>
+		<td >인천광역시</td>
+	</tr>
+			
+	<tr>
+		<td>다함이텍</td>
+		<td>
+			
+				
+					유가
+				
+					
+					
+						
+			
+		</td>
+		<td style="mso-number-format:'@';text-align:center;">009280</td>
+		<td>회사 본부 및 경영 컨설팅 서비스업</td>
+		<td>녹음기부품,카세트테이프레코더,동 데크메카니즘,CDP,플로직시스템 제조</td>
+		<td style="text-align:center;">1988-09-27</td>
+		<td style="text-align:center;">12월</td>
+		<td>안응수(단독대표이사)</td>
+		<td>
+			http://www.da-haam.com
+		</td>
+		<td >서울특별시</td>
+	</tr>
+			
+	<tr>
+		<td>대주코레스</td>
+		<td>
+			
+				
+						
+					코스닥
+					
+					
+						
+			
+		</td>
+		<td style="mso-number-format:'@';text-align:center;">008340</td>
+		<td>1차 비철금속 제조업</td>
+		<td>버스.승용차.철도차량부품,방열판,산업자동화부품,다리난간.피아노 건반 지지대 및 해머받침대 등         </td>
+		<td style="text-align:center;">1992-12-29</td>
+		<td style="text-align:center;">12월</td>
+		<td>박주정</td>
+		<td>
+			http://www.kores21.com
+		</td>
+		<td >전북특별자치도</td>
+	</tr>
+			
+	<tr>
+		<td>심스밸리</td>
+		<td>
+			
+				
+						
+					코스닥
+					
+					
+						
+			
+		</td>
+		<td style="mso-number-format:'@';text-align:center;">042470</td>
+		<td></td>
+		<td>디지털 보이스 레코드 개발 및 제조</td>
+		<td style="text-align:center;">2000-07-19</td>
+		<td style="text-align:center;">12월</td>
+		<td>심윤태</td>
+		<td>
+			http://www.simsvalley.com
+		</td>
+		<td >서울특별시</td>
+	</tr>
+			
+	<tr>
+		<td>엔빅스</td>
+		<td>
+			
+				
+						
+					코스닥
+					
+					
+						
+			
+		</td>
+		<td style="mso-number-format:'@';text-align:center;">054170</td>
+		<td>컴퓨터 프로그래밍, 시스템 통합 및 관리업</td>
+		<td>대용량 저장장치 시스템 통합, 솔루션 통합</td>
+		<td style="text-align:center;">2001-10-11</td>
+		<td style="text-align:center;">12월</td>
+		<td>이명노</td>
+		<td>
+			http://www.enbigs.com
+		</td>
+		<td >서울특별시</td>
+	</tr>
+			
+	<tr>
+		<td>엠텍반도체</td>
+		<td>
+			
+				
+						
+					코스닥
+					
+					
+						
+			
+		</td>
+		<td style="mso-number-format:'@';text-align:center;">054440</td>
+		<td></td>
+		<td>와이어컷방전가공기, 금형</td>
+		<td style="text-align:center;">2001-11-22</td>
+		<td style="text-align:center;">12월</td>
+		<td>김  직</td>
+		<td>
+			http://www.mteksemi.co.kr
+		</td>
+		<td >서울특별시</td>
+	</tr>
+			
+	<tr>
+		<td>옵셔널벤처스</td>
+		<td>
+			
+				
+						
+					코스닥
+					
+					
+						
+			
+		</td>
+		<td style="mso-number-format:'@';text-align:center;">022780</td>
+		<td></td>
+		<td>대출이자</td>
+		<td style="text-align:center;">1994-06-07</td>
+		<td style="text-align:center;">03월</td>
+		<td>김효동</td>
+		<td>
+			
+		</td>
+		<td >광주광역시</td>
+	</tr>
+			
+	<tr>
+		<td>케이이엔지</td>
+		<td>
+			
+				
+						
+					코스닥
+					
+					
+						
+			
+		</td>
+		<td style="mso-number-format:'@';text-align:center;">077960</td>
+		<td>특수 목적용 기계 제조업</td>
+		<td>TFT-LCD 제조용 장비</td>
+		<td style="text-align:center;">2004-10-29</td>
+		<td style="text-align:center;">12월</td>
+		<td>윤 순균</td>
+		<td>
+			http://www.k-eng.co.kr
+		</td>
+		<td >경기도</td>
+	</tr>
+			
+	<tr>
+		<td>코닉스</td>
+		<td>
+			
+				
+						
+					코스닥
+					
+					
+						
+			
+		</td>
+		<td style="mso-number-format:'@';text-align:center;">017210</td>
+		<td></td>
+		<td>컨트롤러</td>
+		<td style="text-align:center;">1991-07-29</td>
+		<td style="text-align:center;">12월</td>
+		<td>김희조</td>
+		<td>
+			http://www.konics.co.kr
+		</td>
+		<td >인천광역시</td>
+	</tr>
+			
+	<tr>
+		<td>도움</td>
+		<td>
+			
+				
+						
+					코스닥
+					
+					
+						
+			
+		</td>
+		<td style="mso-number-format:'@';text-align:center;">078610</td>
+		<td>통신 및 방송 장비 제조업</td>
+		<td>휴대폰외장부품</td>
+		<td style="text-align:center;">2005-05-09</td>
+		<td style="text-align:center;">12월</td>
+		<td>유진하</td>
+		<td>
+			http://www.dom.co.kr
+		</td>
+		<td >인천광역시</td>
+	</tr>
+			
+	<tr>
+		<td>아이엠아이티</td>
+		<td>
+			
+				
+						
+					코스닥
+					
+					
+						
+			
+		</td>
+		<td style="mso-number-format:'@';text-align:center;">038100</td>
+		<td></td>
+		<td>시스템통합, 고장자동화</td>
+		<td style="text-align:center;">2000-01-13</td>
+		<td style="text-align:center;">12월</td>
+		<td>이한철</td>
+		<td>
+			http://www.imit.co.kr
+		</td>
+		<td >서울특별시</td>
+	</tr>
+			
+	<tr>
+		<td>알티전자</td>
+		<td>
+			
+				
+						
+					코스닥
+					
+					
+						
+			
+		</td>
+		<td style="mso-number-format:'@';text-align:center;">032290</td>
+		<td>전자부품 제조업</td>
+		<td>통신장비외형부품</td>
+		<td style="text-align:center;">1997-03-15</td>
+		<td style="text-align:center;">12월</td>
+		<td>김문영</td>
+		<td>
+			http://www.alti-e.co.kr
+		</td>
+		<td >경기도</td>
+	</tr>
+			
+	<tr>
+		<td>카리스소프트</td>
+		<td>
+			
+				
+						
+					코스닥
+					
+					
+						
+			
+		</td>
+		<td style="mso-number-format:'@';text-align:center;">024080</td>
+		<td></td>
+		<td>견직물</td>
+		<td style="text-align:center;">1994-12-07</td>
+		<td style="text-align:center;">12월</td>
+		<td>김범기</td>
+		<td>
+			http://www.karissoft.co.kr
+		</td>
+		<td >경상남도</td>
+	</tr>
+			
+	<tr>
+		<td>케이티씨텔레콤</td>
+		<td>
+			
+				
+						
+					코스닥
+					
+					
+						
+			
+		</td>
+		<td style="mso-number-format:'@';text-align:center;">055810</td>
+		<td></td>
+		<td>휴대폰단말기, 유무선전화기</td>
+		<td style="text-align:center;">2003-11-07</td>
+		<td style="text-align:center;">12월</td>
+		<td>안명훈</td>
+		<td>
+			http://www.ktctelecom.com
+		</td>
+		<td >인천광역시</td>
+	</tr>
+			
+	<tr>
+		<td>테라</td>
+		<td>
+			
+				
+						
+					코스닥
+					
+					
+						
+			
+		</td>
+		<td style="mso-number-format:'@';text-align:center;">032780</td>
+		<td></td>
+		<td>컴퓨터및주변기기</td>
+		<td style="text-align:center;">1997-06-26</td>
+		<td style="text-align:center;">12월</td>
+		<td>박 경 숙</td>
+		<td>
+			http://www.terra.co.kr
+		</td>
+		<td >서울특별시</td>
+	</tr>
+			
+	<tr>
+		<td>하이럭스</td>
+		<td>
+			
+				
+						
+					코스닥
+					
+					
+						
+			
+		</td>
+		<td style="mso-number-format:'@';text-align:center;">079340</td>
+		<td>전자부품 제조업</td>
+		<td>휴대폰용BLU</td>
+		<td style="text-align:center;">2005-07-19</td>
+		<td style="text-align:center;">12월</td>
+		<td>박진호</td>
+		<td>
+			http://www.namotek.co.kr
+		</td>
+		<td >경기도</td>
+	</tr>
+			
+	<tr>
+		<td>한와이어리스</td>
+		<td>
+			
+				
+						
+					코스닥
+					
+					
+						
+			
+		</td>
+		<td style="mso-number-format:'@';text-align:center;">037020</td>
+		<td>컴퓨터 프로그래밍, 시스템 통합 및 관리업</td>
+		<td>컴퓨터장비 임대 및 판매</td>
+		<td style="text-align:center;">1999-11-16</td>
+		<td style="text-align:center;">12월</td>
+		<td>한희석</td>
+		<td>
+			http://www.ubdigm.com
+		</td>
+		<td >서울특별시</td>
+	</tr>
+			
+	<tr>
+		<td>에이치비이에너지</td>
+		<td>
+			
+				
+					유가
+				
+					
+					
+						
+			
+		</td>
+		<td style="mso-number-format:'@';text-align:center;">017300</td>
+		<td>영상 및 음향기기 제조업</td>
+		<td>모니터,파워서플라이,팩시밀리,위성방송수신기,인터넷전용셋롭박스 제조,판매,수출</td>
+		<td style="text-align:center;">1995-11-10</td>
+		<td style="text-align:center;">12월</td>
+		<td>한상업</td>
+		<td>
+			http://www.kds21.com
+		</td>
+		<td >경상북도</td>
+	</tr>
+			
+	<tr>
+		<td>휴리프</td>
+		<td>
+			
+				
+					유가
+				
+					
+					
+						
+			
+		</td>
+		<td style="mso-number-format:'@';text-align:center;">006210</td>
+		<td>영상 및 음향기기 제조업</td>
+		<td>디지털가전기기(LCD-TV,Monitor 등) 제조</td>
+		<td style="text-align:center;">1977-06-29</td>
+		<td style="text-align:center;">03월</td>
+		<td>하현</td>
+		<td>
+			http://www.hulif.co.kr
+		</td>
+		<td >서울특별시</td>
+	</tr>
+			
+	<tr>
+		<td>세라온</td>
+		<td>
+			
+				
+						
+					코스닥
+					
+					
+						
+			
+		</td>
+		<td style="mso-number-format:'@';text-align:center;">050600</td>
+		<td>전자부품 제조업</td>
+		<td>그래픽 카드, TV카드, 멀티카드</td>
+		<td style="text-align:center;">2001-06-21</td>
+		<td style="text-align:center;">12월</td>
+		<td>박 준 영</td>
+		<td>
+			http://www.seraon.com
+		</td>
+		<td >경기도</td>
+	</tr>
+			
+	<tr>
+		<td>쌈지</td>
+		<td>
+			
+				
+						
+					코스닥
+					
+					
+						
+			
+		</td>
+		<td style="mso-number-format:'@';text-align:center;">033260</td>
+		<td>가죽, 가방 및 유사제품 제조업</td>
+		<td>핸드백,지갑</td>
+		<td style="text-align:center;">2001-02-01</td>
+		<td style="text-align:center;">12월</td>
+		<td>양진호</td>
+		<td>
+			http://WWW.SSAMZIE.CO.KR
+		</td>
+		<td >서울특별시</td>
+	</tr>
+			
+	<tr>
+		<td>유에이블</td>
+		<td>
+			
+				
+						
+					코스닥
+					
+					
+						
+			
+		</td>
+		<td style="mso-number-format:'@';text-align:center;">071530</td>
+		<td>기계장비 및 관련 물품 도매업</td>
+		<td>학생용 및 스포츠용 가방</td>
+		<td style="text-align:center;">2004-02-17</td>
+		<td style="text-align:center;">12월</td>
+		<td>김대환</td>
+		<td>
+			http://www.dworksglobal.co.kr
+		</td>
+		<td >서울특별시</td>
+	</tr>
+			
+	<tr>
+		<td>케이에스알</td>
+		<td>
+			
+				
+						
+					코스닥
+					
+					
+						
+			
+		</td>
+		<td style="mso-number-format:'@';text-align:center;">066340</td>
+		<td>통신 및 방송 장비 제조업</td>
+		<td>생활 및 산업용 무전기</td>
+		<td style="text-align:center;">2003-02-07</td>
+		<td style="text-align:center;">12월</td>
+		<td>신은성</td>
+		<td>
+			http://www.ksresource.co.kr
+		</td>
+		<td >충청북도</td>
+	</tr>
+			
+	<tr>
+		<td>코리아이앤디</td>
+		<td>
+			
+				
+						
+					코스닥
+					
+					
+						
+			
+		</td>
+		<td style="mso-number-format:'@';text-align:center;">027440</td>
+		<td></td>
+		<td>필름 콘덴서</td>
+		<td style="text-align:center;">1996-03-07</td>
+		<td style="text-align:center;">03월</td>
+		<td>조준환</td>
+		<td>
+			http://www.koreaelectronics.com
+		</td>
+		<td >경상북도</td>
+	</tr>
+			
+	<tr>
+		<td>휴먼이노텍</td>
+		<td>
+			
+				
+						
+					코스닥
+					
+					
+						
+			
+		</td>
+		<td style="mso-number-format:'@';text-align:center;">013630</td>
+		<td></td>
+		<td>건설(화력발전소, 원자력 발전소, 발전고 보수정비 외) 제조(HOIST-CAR, 세륜기 외)</td>
+		<td style="text-align:center;">1994-07-04</td>
+		<td style="text-align:center;">12월</td>
+		<td>정 기웅</td>
+		<td>
+			http://www.ithuman.co.kr
+		</td>
+		<td >서울특별시</td>
+	</tr>
+			
+	<tr>
+		<td>로지스몬</td>
+		<td>
+			
+				
+					
+						
+					코넥스
+					
+						
+			
+		</td>
+		<td style="mso-number-format:'@';text-align:center;">223220</td>
+		<td>기타 운송관련 서비스업</td>
+		<td>모바일 컨텐츠 개발 및 유통</td>
+		<td style="text-align:center;">2015-07-09</td>
+		<td style="text-align:center;">12월</td>
+		<td>공광택, 박용욱(각자 대표이사)</td>
+		<td>
+			http://ipmonster.co.kr
+		</td>
+		<td >서울특별시</td>
+	</tr>
+			
+		
+		
+	
+	</table>
+</body>
+</html>
