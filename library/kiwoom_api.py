@@ -1437,7 +1437,8 @@ class open_api:
 
         # 연속조회 (ka10080 은 한 번에 일정 건수씩 반환하므로 next-key 로 계속 조회)
         cont_count = 0
-        max_cont = 20
+        # 1년치 분봉 백필: 1페이지=900건, 1년≈106페이지 → 120으로 설정 (기존 20은 약 2개월치만)
+        max_cont = 120
         while self.remained_data == True and cont_count < max_cont:
             time.sleep(1.0)  # rate limit 방지 (유량=1)
             self.set_input_value("종목코드", code)
