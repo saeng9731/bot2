@@ -6,6 +6,7 @@ name: update-kind-xls
 #    이 워크플로가 반드시 서버 fetch보다 먼저 실행되어야 함. 주의: 이전에는 06:40이라 순서가 역전됨)
 # - 서버는 이 저장소에서 파일을 받아 사용 (서버→KIND 직접 접속 불필요)
 # - GitHub Actions 서버 IP에서 KIND 접속이 되는 경우에만 동작 (403이면 이 워크플로가 실패로 표시됨)
+# - KIND 403 차단이 간헐적이라 다운로드 스텝은 최대 3회 재시도합니다.
 
 on:
   schedule:
@@ -23,8 +24,22 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: KIND 파일 다운로드
-        run: python .github/scripts/update_kind_xls.py
+      - name: KIND 파일 다운로드 (실패 시 최대 3회 재시도)
+        run: |
+          for i in 1 2 3; do
+            echo "=== 다운로드 시도 ${i}/3 ==="
+            if python .github/scripts/update_kind_xls.py; then
+              echo "=== 다운로드 성공 ==="
+              exit 0
+            fi
+            echo "=== 시도 ${i} 실패 ==="
+            if [ "${i}" -lt 3 ]; then
+              echo "10초 후 재시도..."
+              sleep 10
+            fi
+          done
+          echo "=== 3회 모두 실패 (KIND 접속 불가) ==="
+          exit 1
 
       - name: 다운로드 결과 확인
         run: ls -la KIND_xls/
