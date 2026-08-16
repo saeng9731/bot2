@@ -262,6 +262,12 @@ class collector_api():
         dtypes = dict(zip(list(stock_df.columns), [Text] * len(stock_df.columns)))  # 모든 타입을 Text로
         dtypes['check_item'] = Integer  # check_item만 int로 변경
 
+        # 종목 코드 중복 제거 (KIND 원본에 중복 행이 있어도 code 기준 1행만 저장)
+        # - stock_kospi/kosdaq/konex 등은 code가 고유해야 정상
+        # - 주의: stock_invest_*(투자주의/경고/위험) 테이블은 이 함수를 거치지 않음 (이벤트별 다건 구조라 중복 제거 금지)
+        if len(stock_df) > 0:
+            stock_df = stock_df.drop_duplicates(subset=['code'])
+
         if len(stock_df) > 0:
             stock_df.to_sql(f'stock_{type}', self.open_api.engine_daily_buy_list, if_exists='replace', dtype=dtypes)
         else:  # insincerity와 managing이 비어있는 경우
