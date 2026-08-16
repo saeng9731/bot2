@@ -1,13 +1,15 @@
 name: update-kind-xls
 
 # KIND 종목 리스트를 GitHub Actions(클라우드)에서 다운로드해 GitHub 저장소에 반영
-# - 평일(월~금) UTC 06:40 = 한국시간 15:40 (서버 콜렉터 15:35 직후)
+# - 평일(월~금) UTC 06:20 = 한국시간 15:20
+#   (서버 fetch_kind 크론 06:30/콜렉터 15:35보다 먼저 반영 → 서버가 오늘자 데이터를 받아야 하므로
+#    이 워크플로가 반드시 서버 fetch보다 먼저 실행되어야 함. 주의: 이전에는 06:40이라 순서가 역전됨)
 # - 서버는 이 저장소에서 파일을 받아 사용 (서버→KIND 직접 접속 불필요)
 # - GitHub Actions 서버 IP에서 KIND 접속이 되는 경우에만 동작 (403이면 이 워크플로가 실패로 표시됨)
 
 on:
   schedule:
-    - cron: '40 6 * * 1-5'
+    - cron: '20 6 * * 1-5'
   workflow_dispatch:
 
 permissions:

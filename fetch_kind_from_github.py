@@ -8,7 +8,11 @@ GitHub 저장소에 올라온 KIND 종목 리스트 파일을 서버로 자동 �
     python fetch_kind_from_github.py
 
 크론 등록 (UTC 06:30 = 한국 15:30, 서버 콜렉터 15:35 직전):
-    30 6 * * 1-5 cd /home/opc/bot2 && python fetch_kind_from_github.py >> log/fetch_kind.log 2>&1
+    # ① 먼저 GitHub Actions가 UTC 06:20(한국 15:20)에 KIND 파일을 갱신/커밋해야 합니다.
+    #    (.github/workflows/update_kind_xls.yml 의 cron: '20 6 * * 1-5')
+    #    이 워크플로가 서버 fetch보다 나중에 돌면 항상 전날 파일을 받게 됩니다.
+    # ② 그 다음 서버가 아래 크론으로 내려받습니다. (python 절대경로 + 로그 절대경로 사용)
+    30 6 * * 1-5 cd /home/opc/bot2 && /home/opc/new_autobot_env_py311/bin/python fetch_kind_from_github.py >> /home/opc/bot2/log/fetch_kind.log 2>&1
 """
 import os
 import sys
