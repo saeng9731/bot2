@@ -34,238 +34,29 @@
 		
 			
 	<tr>
-		<td style="text-align:center;">123</td>
+		<td style="text-align:center;">118</td>
 		<td>태원물산</td>
 		<td style='mso-number-format: "@";text-align:center;'>
 			001420
 		</td>
 		<td>소수지점/계좌</td>
-		<td style="text-align:center;">2026-09-02</td>
 		<td style="text-align:center;">2026-09-03</td>
-	</tr>
-			
-	<tr>
-		<td style="text-align:center;">122</td>
-		<td>원풍물산</td>
-		<td style='mso-number-format: "@";text-align:center;'>
-			008290
-		</td>
-		<td>소수계좌 매수관여 과다</td>
-		<td style="text-align:center;">2026-09-02</td>
-		<td style="text-align:center;">2026-09-03</td>
-	</tr>
-			
-	<tr>
-		<td style="text-align:center;">121</td>
-		<td>키다리스튜디오</td>
-		<td style='mso-number-format: "@";text-align:center;'>
-			020120
-		</td>
-		<td>소수계좌 매수관여 과다</td>
-		<td style="text-align:center;">2026-09-02</td>
-		<td style="text-align:center;">2026-09-03</td>
-	</tr>
-			
-	<tr>
-		<td style="text-align:center;">120</td>
-		<td>신라에스지</td>
-		<td style='mso-number-format: "@";text-align:center;'>
-			025870
-		</td>
-		<td>소수지점/계좌</td>
-		<td style="text-align:center;">2026-09-02</td>
-		<td style="text-align:center;">2026-09-03</td>
-	</tr>
-			
-	<tr>
-		<td style="text-align:center;">119</td>
-		<td>더라미</td>
-		<td style='mso-number-format: "@";text-align:center;'>
-			032860
-		</td>
-		<td>소수지점/계좌</td>
-		<td style="text-align:center;">2026-09-02</td>
-		<td style="text-align:center;">2026-09-03</td>
-	</tr>
-			
-	<tr>
-		<td style="text-align:center;">118</td>
-		<td>한빛소프트</td>
-		<td style='mso-number-format: "@";text-align:center;'>
-			047080
-		</td>
-		<td>소수지점/계좌</td>
-		<td style="text-align:center;">2026-09-02</td>
-		<td style="text-align:center;">2026-09-03</td>
+		<td style="text-align:center;">2026-09-04</td>
 	</tr>
 			
 	<tr>
 		<td style="text-align:center;">117</td>
-		<td>한빛소프트</td>
+		<td>태원물산</td>
 		<td style='mso-number-format: "@";text-align:center;'>
-			047080
+			001420
 		</td>
 		<td>매매관여과다종목</td>
-		<td style="text-align:center;">2026-09-02</td>
 		<td style="text-align:center;">2026-09-03</td>
+		<td style="text-align:center;">2026-09-04</td>
 	</tr>
 			
 	<tr>
 		<td style="text-align:center;">116</td>
-		<td>하이퍼코퍼레이션</td>
-		<td style='mso-number-format: "@";text-align:center;'>
-			065650
-		</td>
-		<td>소수지점/계좌</td>
-		<td style="text-align:center;">2026-09-02</td>
-		<td style="text-align:center;">2026-09-03</td>
-	</tr>
-			
-	<tr>
-		<td style="text-align:center;">115</td>
-		<td>하이퍼코퍼레이션</td>
-		<td style='mso-number-format: "@";text-align:center;'>
-			065650
-		</td>
-		<td>매매관여과다종목</td>
-		<td style="text-align:center;">2026-09-02</td>
-		<td style="text-align:center;">2026-09-03</td>
-	</tr>
-			
-	<tr>
-		<td style="text-align:center;">114</td>
-		<td>엑시온그룹</td>
-		<td style='mso-number-format: "@";text-align:center;'>
-			069920
-		</td>
-		<td>투자경고 지정예고</td>
-		<td style="text-align:center;">2026-09-02</td>
-		<td style="text-align:center;">2026-09-03</td>
-	</tr>
-			
-	<tr>
-		<td style="text-align:center;">113</td>
-		<td>엑시콘</td>
-		<td style='mso-number-format: "@";text-align:center;'>
-			092870
-		</td>
-		<td>투자경고 지정예고</td>
-		<td style="text-align:center;">2026-09-02</td>
-		<td style="text-align:center;">2026-09-03</td>
-	</tr>
-			
-	<tr>
-		<td style="text-align:center;">112</td>
-		<td>화신정공</td>
-		<td style='mso-number-format: "@";text-align:center;'>
-			126640
-		</td>
-		<td>투자경고 지정해제</td>
-		<td style="text-align:center;">2026-09-02</td>
-		<td style="text-align:center;">2026-09-03</td>
-	</tr>
-			
-	<tr>
-		<td style="text-align:center;">111</td>
-		<td>모아라이프플러스</td>
-		<td style='mso-number-format: "@";text-align:center;'>
-			142760
-		</td>
-		<td>단일계좌거래량</td>
-		<td style="text-align:center;">2026-09-02</td>
-		<td style="text-align:center;">2026-09-03</td>
-	</tr>
-			
-	<tr>
-		<td style="text-align:center;">110</td>
-		<td>아우딘퓨쳐스</td>
-		<td style='mso-number-format: "@";text-align:center;'>
-			227610
-		</td>
-		<td>소수지점/계좌</td>
-		<td style="text-align:center;">2026-09-02</td>
-		<td style="text-align:center;">2026-09-03</td>
-	</tr>
-			
-	<tr>
-		<td style="text-align:center;">109</td>
-		<td>나노씨엠에스</td>
-		<td style='mso-number-format: "@";text-align:center;'>
-			247660
-		</td>
-		<td>소수지점/계좌</td>
-		<td style="text-align:center;">2026-09-02</td>
-		<td style="text-align:center;">2026-09-03</td>
-	</tr>
-			
-	<tr>
-		<td style="text-align:center;">108</td>
-		<td>비투엔</td>
-		<td style='mso-number-format: "@";text-align:center;'>
-			307870
-		</td>
-		<td>매매관여과다종목</td>
-		<td style="text-align:center;">2026-09-02</td>
-		<td style="text-align:center;">2026-09-03</td>
-	</tr>
-			
-	<tr>
-		<td style="text-align:center;">107</td>
-		<td>박셀바이오</td>
-		<td style='mso-number-format: "@";text-align:center;'>
-			323990
-		</td>
-		<td>매매관여과다종목</td>
-		<td style="text-align:center;">2026-09-02</td>
-		<td style="text-align:center;">2026-09-03</td>
-	</tr>
-			
-	<tr>
-		<td style="text-align:center;">106</td>
-		<td>핌스</td>
-		<td style='mso-number-format: "@";text-align:center;'>
-			347770
-		</td>
-		<td>소수지점/계좌</td>
-		<td style="text-align:center;">2026-09-02</td>
-		<td style="text-align:center;">2026-09-03</td>
-	</tr>
-			
-	<tr>
-		<td style="text-align:center;">105</td>
-		<td>지에프아이</td>
-		<td style='mso-number-format: "@";text-align:center;'>
-			493330
-		</td>
-		<td>소수지점/계좌</td>
-		<td style="text-align:center;">2026-09-02</td>
-		<td style="text-align:center;">2026-09-03</td>
-	</tr>
-			
-	<tr>
-		<td style="text-align:center;">104</td>
-		<td>태원물산</td>
-		<td style='mso-number-format: "@";text-align:center;'>
-			001420
-		</td>
-		<td>소수지점/계좌</td>
-		<td style="text-align:center;">2026-09-03</td>
-		<td style="text-align:center;">2026-09-04</td>
-	</tr>
-			
-	<tr>
-		<td style="text-align:center;">103</td>
-		<td>태원물산</td>
-		<td style='mso-number-format: "@";text-align:center;'>
-			001420
-		</td>
-		<td>매매관여과다종목</td>
-		<td style="text-align:center;">2026-09-03</td>
-		<td style="text-align:center;">2026-09-04</td>
-	</tr>
-			
-	<tr>
-		<td style="text-align:center;">102</td>
 		<td>키다리스튜디오</td>
 		<td style='mso-number-format: "@";text-align:center;'>
 			020120
@@ -276,7 +67,7 @@
 	</tr>
 			
 	<tr>
-		<td style="text-align:center;">101</td>
+		<td style="text-align:center;">115</td>
 		<td>티케이지애강</td>
 		<td style='mso-number-format: "@";text-align:center;'>
 			022220
@@ -287,7 +78,7 @@
 	</tr>
 			
 	<tr>
-		<td style="text-align:center;">100</td>
+		<td style="text-align:center;">114</td>
 		<td>플레이위드</td>
 		<td style='mso-number-format: "@";text-align:center;'>
 			023770
@@ -298,7 +89,7 @@
 	</tr>
 			
 	<tr>
-		<td style="text-align:center;">99</td>
+		<td style="text-align:center;">113</td>
 		<td>더라미</td>
 		<td style='mso-number-format: "@";text-align:center;'>
 			032860
@@ -309,7 +100,7 @@
 	</tr>
 			
 	<tr>
-		<td style="text-align:center;">98</td>
+		<td style="text-align:center;">112</td>
 		<td>골드앤에스</td>
 		<td style='mso-number-format: "@";text-align:center;'>
 			035290
@@ -320,7 +111,7 @@
 	</tr>
 			
 	<tr>
-		<td style="text-align:center;">97</td>
+		<td style="text-align:center;">111</td>
 		<td>골드앤에스</td>
 		<td style='mso-number-format: "@";text-align:center;'>
 			035290
@@ -331,7 +122,7 @@
 	</tr>
 			
 	<tr>
-		<td style="text-align:center;">96</td>
+		<td style="text-align:center;">110</td>
 		<td>SM C&C</td>
 		<td style='mso-number-format: "@";text-align:center;'>
 			048550
@@ -342,7 +133,7 @@
 	</tr>
 			
 	<tr>
-		<td style="text-align:center;">95</td>
+		<td style="text-align:center;">109</td>
 		<td>한주에이알티</td>
 		<td style='mso-number-format: "@";text-align:center;'>
 			058450
@@ -353,7 +144,7 @@
 	</tr>
 			
 	<tr>
-		<td style="text-align:center;">94</td>
+		<td style="text-align:center;">108</td>
 		<td>포니링크</td>
 		<td style='mso-number-format: "@";text-align:center;'>
 			064800
@@ -364,7 +155,7 @@
 	</tr>
 			
 	<tr>
-		<td style="text-align:center;">93</td>
+		<td style="text-align:center;">107</td>
 		<td>JW신약</td>
 		<td style='mso-number-format: "@";text-align:center;'>
 			067290
@@ -375,7 +166,7 @@
 	</tr>
 			
 	<tr>
-		<td style="text-align:center;">92</td>
+		<td style="text-align:center;">106</td>
 		<td>서산</td>
 		<td style='mso-number-format: "@";text-align:center;'>
 			079650
@@ -386,7 +177,7 @@
 	</tr>
 			
 	<tr>
-		<td style="text-align:center;">91</td>
+		<td style="text-align:center;">105</td>
 		<td>수성웹툰</td>
 		<td style='mso-number-format: "@";text-align:center;'>
 			084180
@@ -397,7 +188,7 @@
 	</tr>
 			
 	<tr>
-		<td style="text-align:center;">90</td>
+		<td style="text-align:center;">104</td>
 		<td>진도</td>
 		<td style='mso-number-format: "@";text-align:center;'>
 			088790
@@ -408,7 +199,7 @@
 	</tr>
 			
 	<tr>
-		<td style="text-align:center;">89</td>
+		<td style="text-align:center;">103</td>
 		<td>파인텍</td>
 		<td style='mso-number-format: "@";text-align:center;'>
 			131760
@@ -419,7 +210,7 @@
 	</tr>
 			
 	<tr>
-		<td style="text-align:center;">88</td>
+		<td style="text-align:center;">102</td>
 		<td>베노티앤알</td>
 		<td style='mso-number-format: "@";text-align:center;'>
 			206400
@@ -430,7 +221,7 @@
 	</tr>
 			
 	<tr>
-		<td style="text-align:center;">87</td>
+		<td style="text-align:center;">101</td>
 		<td>나노씨엠에스</td>
 		<td style='mso-number-format: "@";text-align:center;'>
 			247660
@@ -441,7 +232,7 @@
 	</tr>
 			
 	<tr>
-		<td style="text-align:center;">86</td>
+		<td style="text-align:center;">100</td>
 		<td>마이크로디지탈</td>
 		<td style='mso-number-format: "@";text-align:center;'>
 			305090
@@ -452,7 +243,7 @@
 	</tr>
 			
 	<tr>
-		<td style="text-align:center;">85</td>
+		<td style="text-align:center;">99</td>
 		<td>모비릭스</td>
 		<td style='mso-number-format: "@";text-align:center;'>
 			348030
@@ -463,7 +254,7 @@
 	</tr>
 			
 	<tr>
-		<td style="text-align:center;">84</td>
+		<td style="text-align:center;">98</td>
 		<td>키다리스튜디오</td>
 		<td style='mso-number-format: "@";text-align:center;'>
 			020120
@@ -474,7 +265,7 @@
 	</tr>
 			
 	<tr>
-		<td style="text-align:center;">83</td>
+		<td style="text-align:center;">97</td>
 		<td>원익홀딩스</td>
 		<td style='mso-number-format: "@";text-align:center;'>
 			030530
@@ -485,7 +276,7 @@
 	</tr>
 			
 	<tr>
-		<td style="text-align:center;">82</td>
+		<td style="text-align:center;">96</td>
 		<td>좋은사람들</td>
 		<td style='mso-number-format: "@";text-align:center;'>
 			033340
@@ -496,7 +287,7 @@
 	</tr>
 			
 	<tr>
-		<td style="text-align:center;">81</td>
+		<td style="text-align:center;">95</td>
 		<td>골드앤에스</td>
 		<td style='mso-number-format: "@";text-align:center;'>
 			035290
@@ -507,7 +298,7 @@
 	</tr>
 			
 	<tr>
-		<td style="text-align:center;">80</td>
+		<td style="text-align:center;">94</td>
 		<td>인베니아</td>
 		<td style='mso-number-format: "@";text-align:center;'>
 			079950
@@ -518,7 +309,7 @@
 	</tr>
 			
 	<tr>
-		<td style="text-align:center;">79</td>
+		<td style="text-align:center;">93</td>
 		<td>인베니아</td>
 		<td style='mso-number-format: "@";text-align:center;'>
 			079950
@@ -529,7 +320,7 @@
 	</tr>
 			
 	<tr>
-		<td style="text-align:center;">78</td>
+		<td style="text-align:center;">92</td>
 		<td>인베니아</td>
 		<td style='mso-number-format: "@";text-align:center;'>
 			079950
@@ -540,7 +331,7 @@
 	</tr>
 			
 	<tr>
-		<td style="text-align:center;">77</td>
+		<td style="text-align:center;">91</td>
 		<td>베셀</td>
 		<td style='mso-number-format: "@";text-align:center;'>
 			177350
@@ -551,7 +342,7 @@
 	</tr>
 			
 	<tr>
-		<td style="text-align:center;">76</td>
+		<td style="text-align:center;">90</td>
 		<td>NHN</td>
 		<td style='mso-number-format: "@";text-align:center;'>
 			181710
@@ -562,7 +353,7 @@
 	</tr>
 			
 	<tr>
-		<td style="text-align:center;">75</td>
+		<td style="text-align:center;">89</td>
 		<td>베노티앤알</td>
 		<td style='mso-number-format: "@";text-align:center;'>
 			206400
@@ -573,7 +364,7 @@
 	</tr>
 			
 	<tr>
-		<td style="text-align:center;">74</td>
+		<td style="text-align:center;">88</td>
 		<td>제테마</td>
 		<td style='mso-number-format: "@";text-align:center;'>
 			216080
@@ -584,7 +375,7 @@
 	</tr>
 			
 	<tr>
-		<td style="text-align:center;">73</td>
+		<td style="text-align:center;">87</td>
 		<td>핀텔</td>
 		<td style='mso-number-format: "@";text-align:center;'>
 			291810
@@ -595,7 +386,7 @@
 	</tr>
 			
 	<tr>
-		<td style="text-align:center;">72</td>
+		<td style="text-align:center;">86</td>
 		<td>마이크로투나노</td>
 		<td style='mso-number-format: "@";text-align:center;'>
 			424980
@@ -606,7 +397,7 @@
 	</tr>
 			
 	<tr>
-		<td style="text-align:center;">71</td>
+		<td style="text-align:center;">85</td>
 		<td>SHD</td>
 		<td style='mso-number-format: "@";text-align:center;'>
 			001770
@@ -617,7 +408,7 @@
 	</tr>
 			
 	<tr>
-		<td style="text-align:center;">70</td>
+		<td style="text-align:center;">84</td>
 		<td>삼익제약</td>
 		<td style='mso-number-format: "@";text-align:center;'>
 			014950
@@ -628,7 +419,7 @@
 	</tr>
 			
 	<tr>
-		<td style="text-align:center;">69</td>
+		<td style="text-align:center;">83</td>
 		<td>키다리스튜디오</td>
 		<td style='mso-number-format: "@";text-align:center;'>
 			020120
@@ -639,7 +430,7 @@
 	</tr>
 			
 	<tr>
-		<td style="text-align:center;">68</td>
+		<td style="text-align:center;">82</td>
 		<td>피델릭스</td>
 		<td style='mso-number-format: "@";text-align:center;'>
 			032580
@@ -650,7 +441,7 @@
 	</tr>
 			
 	<tr>
-		<td style="text-align:center;">67</td>
+		<td style="text-align:center;">81</td>
 		<td>엠젠솔루션</td>
 		<td style='mso-number-format: "@";text-align:center;'>
 			032790
@@ -661,7 +452,7 @@
 	</tr>
 			
 	<tr>
-		<td style="text-align:center;">66</td>
+		<td style="text-align:center;">80</td>
 		<td>좋은사람들</td>
 		<td style='mso-number-format: "@";text-align:center;'>
 			033340
@@ -672,7 +463,7 @@
 	</tr>
 			
 	<tr>
-		<td style="text-align:center;">65</td>
+		<td style="text-align:center;">79</td>
 		<td>골드앤에스</td>
 		<td style='mso-number-format: "@";text-align:center;'>
 			035290
@@ -683,7 +474,7 @@
 	</tr>
 			
 	<tr>
-		<td style="text-align:center;">64</td>
+		<td style="text-align:center;">78</td>
 		<td>아이앤씨</td>
 		<td style='mso-number-format: "@";text-align:center;'>
 			052860
@@ -694,7 +485,7 @@
 	</tr>
 			
 	<tr>
-		<td style="text-align:center;">63</td>
+		<td style="text-align:center;">77</td>
 		<td>한미글로벌</td>
 		<td style='mso-number-format: "@";text-align:center;'>
 			053690
@@ -705,7 +496,7 @@
 	</tr>
 			
 	<tr>
-		<td style="text-align:center;">62</td>
+		<td style="text-align:center;">76</td>
 		<td>하이퍼코퍼레이션</td>
 		<td style='mso-number-format: "@";text-align:center;'>
 			065650
@@ -716,7 +507,7 @@
 	</tr>
 			
 	<tr>
-		<td style="text-align:center;">61</td>
+		<td style="text-align:center;">75</td>
 		<td>케스피온</td>
 		<td style='mso-number-format: "@";text-align:center;'>
 			079190
@@ -727,7 +518,7 @@
 	</tr>
 			
 	<tr>
-		<td style="text-align:center;">60</td>
+		<td style="text-align:center;">74</td>
 		<td>케스피온</td>
 		<td style='mso-number-format: "@";text-align:center;'>
 			079190
@@ -738,7 +529,7 @@
 	</tr>
 			
 	<tr>
-		<td style="text-align:center;">59</td>
+		<td style="text-align:center;">73</td>
 		<td>우리바이오</td>
 		<td style='mso-number-format: "@";text-align:center;'>
 			082850
@@ -749,7 +540,7 @@
 	</tr>
 			
 	<tr>
-		<td style="text-align:center;">58</td>
+		<td style="text-align:center;">72</td>
 		<td>유진테크</td>
 		<td style='mso-number-format: "@";text-align:center;'>
 			084370
@@ -760,7 +551,7 @@
 	</tr>
 			
 	<tr>
-		<td style="text-align:center;">57</td>
+		<td style="text-align:center;">71</td>
 		<td>KS인더스트리</td>
 		<td style='mso-number-format: "@";text-align:center;'>
 			101000
@@ -771,7 +562,7 @@
 	</tr>
 			
 	<tr>
-		<td style="text-align:center;">56</td>
+		<td style="text-align:center;">70</td>
 		<td>MSDI</td>
 		<td style='mso-number-format: "@";text-align:center;'>
 			123010
@@ -782,7 +573,7 @@
 	</tr>
 			
 	<tr>
-		<td style="text-align:center;">55</td>
+		<td style="text-align:center;">69</td>
 		<td>안지오랩</td>
 		<td style='mso-number-format: "@";text-align:center;'>
 			251280
@@ -793,7 +584,7 @@
 	</tr>
 			
 	<tr>
-		<td style="text-align:center;">54</td>
+		<td style="text-align:center;">68</td>
 		<td>이지스</td>
 		<td style='mso-number-format: "@";text-align:center;'>
 			261520
@@ -804,7 +595,7 @@
 	</tr>
 			
 	<tr>
-		<td style="text-align:center;">53</td>
+		<td style="text-align:center;">67</td>
 		<td>아리바이오랩</td>
 		<td style='mso-number-format: "@";text-align:center;'>
 			261780
@@ -815,7 +606,7 @@
 	</tr>
 			
 	<tr>
-		<td style="text-align:center;">52</td>
+		<td style="text-align:center;">66</td>
 		<td>모아데이타</td>
 		<td style='mso-number-format: "@";text-align:center;'>
 			288980
@@ -826,7 +617,7 @@
 	</tr>
 			
 	<tr>
-		<td style="text-align:center;">51</td>
+		<td style="text-align:center;">65</td>
 		<td>핀텔</td>
 		<td style='mso-number-format: "@";text-align:center;'>
 			291810
@@ -837,7 +628,7 @@
 	</tr>
 			
 	<tr>
-		<td style="text-align:center;">50</td>
+		<td style="text-align:center;">64</td>
 		<td>노을</td>
 		<td style='mso-number-format: "@";text-align:center;'>
 			376930
@@ -848,7 +639,7 @@
 	</tr>
 			
 	<tr>
-		<td style="text-align:center;">49</td>
+		<td style="text-align:center;">63</td>
 		<td>마이크로투나노</td>
 		<td style='mso-number-format: "@";text-align:center;'>
 			424980
@@ -859,7 +650,7 @@
 	</tr>
 			
 	<tr>
-		<td style="text-align:center;">48</td>
+		<td style="text-align:center;">62</td>
 		<td>파두</td>
 		<td style='mso-number-format: "@";text-align:center;'>
 			440110
@@ -870,7 +661,7 @@
 	</tr>
 			
 	<tr>
-		<td style="text-align:center;">47</td>
+		<td style="text-align:center;">61</td>
 		<td>피아이이</td>
 		<td style='mso-number-format: "@";text-align:center;'>
 			452450
@@ -881,7 +672,7 @@
 	</tr>
 			
 	<tr>
-		<td style="text-align:center;">46</td>
+		<td style="text-align:center;">60</td>
 		<td>네오이뮨텍</td>
 		<td style='mso-number-format: "@";text-align:center;'>
 			950220
@@ -892,7 +683,7 @@
 	</tr>
 			
 	<tr>
-		<td style="text-align:center;">45</td>
+		<td style="text-align:center;">59</td>
 		<td>KR모터스</td>
 		<td style='mso-number-format: "@";text-align:center;'>
 			000040
@@ -903,7 +694,7 @@
 	</tr>
 			
 	<tr>
-		<td style="text-align:center;">44</td>
+		<td style="text-align:center;">58</td>
 		<td>카나프테라퓨틱스</td>
 		<td style='mso-number-format: "@";text-align:center;'>
 			0082N0
@@ -914,7 +705,7 @@
 	</tr>
 			
 	<tr>
-		<td style="text-align:center;">43</td>
+		<td style="text-align:center;">57</td>
 		<td>인디에프</td>
 		<td style='mso-number-format: "@";text-align:center;'>
 			014990
@@ -925,7 +716,7 @@
 	</tr>
 			
 	<tr>
-		<td style="text-align:center;">42</td>
+		<td style="text-align:center;">56</td>
 		<td>DKME</td>
 		<td style='mso-number-format: "@";text-align:center;'>
 			015590
@@ -936,7 +727,7 @@
 	</tr>
 			
 	<tr>
-		<td style="text-align:center;">41</td>
+		<td style="text-align:center;">55</td>
 		<td>키다리스튜디오</td>
 		<td style='mso-number-format: "@";text-align:center;'>
 			020120
@@ -947,7 +738,7 @@
 	</tr>
 			
 	<tr>
-		<td style="text-align:center;">40</td>
+		<td style="text-align:center;">54</td>
 		<td>신라에스지</td>
 		<td style='mso-number-format: "@";text-align:center;'>
 			025870
@@ -958,7 +749,7 @@
 	</tr>
 			
 	<tr>
-		<td style="text-align:center;">39</td>
+		<td style="text-align:center;">53</td>
 		<td>비트플래닛</td>
 		<td style='mso-number-format: "@";text-align:center;'>
 			049470
@@ -969,7 +760,7 @@
 	</tr>
 			
 	<tr>
-		<td style="text-align:center;">38</td>
+		<td style="text-align:center;">52</td>
 		<td>빛과전자</td>
 		<td style='mso-number-format: "@";text-align:center;'>
 			069540
@@ -980,7 +771,7 @@
 	</tr>
 			
 	<tr>
-		<td style="text-align:center;">37</td>
+		<td style="text-align:center;">51</td>
 		<td>케스피온</td>
 		<td style='mso-number-format: "@";text-align:center;'>
 			079190
@@ -991,7 +782,7 @@
 	</tr>
 			
 	<tr>
-		<td style="text-align:center;">36</td>
+		<td style="text-align:center;">50</td>
 		<td>마이크로컨텍솔</td>
 		<td style='mso-number-format: "@";text-align:center;'>
 			098120
@@ -1002,7 +793,7 @@
 	</tr>
 			
 	<tr>
-		<td style="text-align:center;">35</td>
+		<td style="text-align:center;">49</td>
 		<td>KS인더스트리</td>
 		<td style='mso-number-format: "@";text-align:center;'>
 			101000
@@ -1013,7 +804,7 @@
 	</tr>
 			
 	<tr>
-		<td style="text-align:center;">34</td>
+		<td style="text-align:center;">48</td>
 		<td>씨싸이트</td>
 		<td style='mso-number-format: "@";text-align:center;'>
 			109670
@@ -1024,7 +815,7 @@
 	</tr>
 			
 	<tr>
-		<td style="text-align:center;">33</td>
+		<td style="text-align:center;">47</td>
 		<td>탑코미디어</td>
 		<td style='mso-number-format: "@";text-align:center;'>
 			134580
@@ -1035,7 +826,7 @@
 	</tr>
 			
 	<tr>
-		<td style="text-align:center;">32</td>
+		<td style="text-align:center;">46</td>
 		<td>져스텍</td>
 		<td style='mso-number-format: "@";text-align:center;'>
 			153890
@@ -1046,7 +837,7 @@
 	</tr>
 			
 	<tr>
-		<td style="text-align:center;">31</td>
+		<td style="text-align:center;">45</td>
 		<td>더코디</td>
 		<td style='mso-number-format: "@";text-align:center;'>
 			224060
@@ -1057,7 +848,7 @@
 	</tr>
 			
 	<tr>
-		<td style="text-align:center;">30</td>
+		<td style="text-align:center;">44</td>
 		<td>피엔티엠에스</td>
 		<td style='mso-number-format: "@";text-align:center;'>
 			257370
@@ -1068,7 +859,7 @@
 	</tr>
 			
 	<tr>
-		<td style="text-align:center;">29</td>
+		<td style="text-align:center;">43</td>
 		<td>핀텔</td>
 		<td style='mso-number-format: "@";text-align:center;'>
 			291810
@@ -1079,7 +870,7 @@
 	</tr>
 			
 	<tr>
-		<td style="text-align:center;">28</td>
+		<td style="text-align:center;">42</td>
 		<td>핀텔</td>
 		<td style='mso-number-format: "@";text-align:center;'>
 			291810
@@ -1090,7 +881,7 @@
 	</tr>
 			
 	<tr>
-		<td style="text-align:center;">27</td>
+		<td style="text-align:center;">41</td>
 		<td>알멕</td>
 		<td style='mso-number-format: "@";text-align:center;'>
 			354320
@@ -1101,7 +892,7 @@
 	</tr>
 			
 	<tr>
-		<td style="text-align:center;">26</td>
+		<td style="text-align:center;">40</td>
 		<td>노을</td>
 		<td style='mso-number-format: "@";text-align:center;'>
 			376930
@@ -1112,7 +903,7 @@
 	</tr>
 			
 	<tr>
-		<td style="text-align:center;">25</td>
+		<td style="text-align:center;">39</td>
 		<td>지니너스</td>
 		<td style='mso-number-format: "@";text-align:center;'>
 			389030
@@ -1123,7 +914,7 @@
 	</tr>
 			
 	<tr>
-		<td style="text-align:center;">24</td>
+		<td style="text-align:center;">38</td>
 		<td>피아이이</td>
 		<td style='mso-number-format: "@";text-align:center;'>
 			452450
@@ -1134,7 +925,7 @@
 	</tr>
 			
 	<tr>
-		<td style="text-align:center;">23</td>
+		<td style="text-align:center;">37</td>
 		<td>KR모터스</td>
 		<td style='mso-number-format: "@";text-align:center;'>
 			000040
@@ -1145,7 +936,7 @@
 	</tr>
 			
 	<tr>
-		<td style="text-align:center;">22</td>
+		<td style="text-align:center;">36</td>
 		<td>형지I&C</td>
 		<td style='mso-number-format: "@";text-align:center;'>
 			011080
@@ -1156,7 +947,7 @@
 	</tr>
 			
 	<tr>
-		<td style="text-align:center;">21</td>
+		<td style="text-align:center;">35</td>
 		<td>삼미금속</td>
 		<td style='mso-number-format: "@";text-align:center;'>
 			012210
@@ -1167,7 +958,7 @@
 	</tr>
 			
 	<tr>
-		<td style="text-align:center;">20</td>
+		<td style="text-align:center;">34</td>
 		<td>DKME</td>
 		<td style='mso-number-format: "@";text-align:center;'>
 			015590
@@ -1178,7 +969,7 @@
 	</tr>
 			
 	<tr>
-		<td style="text-align:center;">19</td>
+		<td style="text-align:center;">33</td>
 		<td>키다리스튜디오</td>
 		<td style='mso-number-format: "@";text-align:center;'>
 			020120
@@ -1189,7 +980,7 @@
 	</tr>
 			
 	<tr>
-		<td style="text-align:center;">18</td>
+		<td style="text-align:center;">32</td>
 		<td>키다리스튜디오</td>
 		<td style='mso-number-format: "@";text-align:center;'>
 			020120
@@ -1200,7 +991,7 @@
 	</tr>
 			
 	<tr>
-		<td style="text-align:center;">17</td>
+		<td style="text-align:center;">31</td>
 		<td>엠젠솔루션</td>
 		<td style='mso-number-format: "@";text-align:center;'>
 			032790
@@ -1211,7 +1002,7 @@
 	</tr>
 			
 	<tr>
-		<td style="text-align:center;">16</td>
+		<td style="text-align:center;">30</td>
 		<td>세종텔레콤</td>
 		<td style='mso-number-format: "@";text-align:center;'>
 			036630
@@ -1222,7 +1013,7 @@
 	</tr>
 			
 	<tr>
-		<td style="text-align:center;">15</td>
+		<td style="text-align:center;">29</td>
 		<td>세종텔레콤</td>
 		<td style='mso-number-format: "@";text-align:center;'>
 			036630
@@ -1233,7 +1024,7 @@
 	</tr>
 			
 	<tr>
-		<td style="text-align:center;">14</td>
+		<td style="text-align:center;">28</td>
 		<td>우리엔터프라이즈</td>
 		<td style='mso-number-format: "@";text-align:center;'>
 			037400
@@ -1244,7 +1035,7 @@
 	</tr>
 			
 	<tr>
-		<td style="text-align:center;">13</td>
+		<td style="text-align:center;">27</td>
 		<td>테스</td>
 		<td style='mso-number-format: "@";text-align:center;'>
 			095610
@@ -1255,7 +1046,7 @@
 	</tr>
 			
 	<tr>
-		<td style="text-align:center;">12</td>
+		<td style="text-align:center;">26</td>
 		<td>KS인더스트리</td>
 		<td style='mso-number-format: "@";text-align:center;'>
 			101000
@@ -1266,7 +1057,7 @@
 	</tr>
 			
 	<tr>
-		<td style="text-align:center;">11</td>
+		<td style="text-align:center;">25</td>
 		<td>티에스이</td>
 		<td style='mso-number-format: "@";text-align:center;'>
 			131290
@@ -1277,7 +1068,7 @@
 	</tr>
 			
 	<tr>
-		<td style="text-align:center;">10</td>
+		<td style="text-align:center;">24</td>
 		<td>탑코미디어</td>
 		<td style='mso-number-format: "@";text-align:center;'>
 			134580
@@ -1288,7 +1079,7 @@
 	</tr>
 			
 	<tr>
-		<td style="text-align:center;">9</td>
+		<td style="text-align:center;">23</td>
 		<td>엘앤케이바이오</td>
 		<td style='mso-number-format: "@";text-align:center;'>
 			156100
@@ -1299,7 +1090,7 @@
 	</tr>
 			
 	<tr>
-		<td style="text-align:center;">8</td>
+		<td style="text-align:center;">22</td>
 		<td>신스틸</td>
 		<td style='mso-number-format: "@";text-align:center;'>
 			162300
@@ -1310,7 +1101,7 @@
 	</tr>
 			
 	<tr>
-		<td style="text-align:center;">7</td>
+		<td style="text-align:center;">21</td>
 		<td>페니트리움바이오</td>
 		<td style='mso-number-format: "@";text-align:center;'>
 			187660
@@ -1321,7 +1112,7 @@
 	</tr>
 			
 	<tr>
-		<td style="text-align:center;">6</td>
+		<td style="text-align:center;">20</td>
 		<td>솔디펜스</td>
 		<td style='mso-number-format: "@";text-align:center;'>
 			215090
@@ -1332,7 +1123,7 @@
 	</tr>
 			
 	<tr>
-		<td style="text-align:center;">5</td>
+		<td style="text-align:center;">19</td>
 		<td>솔디펜스</td>
 		<td style='mso-number-format: "@";text-align:center;'>
 			215090
@@ -1343,7 +1134,7 @@
 	</tr>
 			
 	<tr>
-		<td style="text-align:center;">4</td>
+		<td style="text-align:center;">18</td>
 		<td>더코디</td>
 		<td style='mso-number-format: "@";text-align:center;'>
 			224060
@@ -1354,7 +1145,7 @@
 	</tr>
 			
 	<tr>
-		<td style="text-align:center;">3</td>
+		<td style="text-align:center;">17</td>
 		<td>에이프로</td>
 		<td style='mso-number-format: "@";text-align:center;'>
 			262260
@@ -1365,7 +1156,7 @@
 	</tr>
 			
 	<tr>
-		<td style="text-align:center;">2</td>
+		<td style="text-align:center;">16</td>
 		<td>에이프로</td>
 		<td style='mso-number-format: "@";text-align:center;'>
 			262260
@@ -1376,7 +1167,7 @@
 	</tr>
 			
 	<tr>
-		<td style="text-align:center;">1</td>
+		<td style="text-align:center;">15</td>
 		<td>형지글로벌</td>
 		<td style='mso-number-format: "@";text-align:center;'>
 			308100
@@ -1384,6 +1175,160 @@
 		<td>소수지점/계좌</td>
 		<td style="text-align:center;">2026-09-09</td>
 		<td style="text-align:center;">2026-09-10</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">14</td>
+		<td>DKME</td>
+		<td style='mso-number-format: "@";text-align:center;'>
+			015590
+		</td>
+		<td>소수지점/계좌</td>
+		<td style="text-align:center;">2026-09-10</td>
+		<td style="text-align:center;">2026-09-11</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">13</td>
+		<td>대교</td>
+		<td style='mso-number-format: "@";text-align:center;'>
+			019680
+		</td>
+		<td>소수지점/계좌</td>
+		<td style="text-align:center;">2026-09-10</td>
+		<td style="text-align:center;">2026-09-11</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">12</td>
+		<td>엔에이치스팩34호</td>
+		<td style='mso-number-format: "@";text-align:center;'>
+			0197V0
+		</td>
+		<td>단일계좌거래량</td>
+		<td style="text-align:center;">2026-09-10</td>
+		<td style="text-align:center;">2026-09-11</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">11</td>
+		<td>드림어스컴퍼니</td>
+		<td style='mso-number-format: "@";text-align:center;'>
+			060570
+		</td>
+		<td>매매관여과다종목</td>
+		<td style="text-align:center;">2026-09-10</td>
+		<td style="text-align:center;">2026-09-11</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">10</td>
+		<td>씨싸이트</td>
+		<td style='mso-number-format: "@";text-align:center;'>
+			109670
+		</td>
+		<td>투자경고 지정예고</td>
+		<td style="text-align:center;">2026-09-10</td>
+		<td style="text-align:center;">2026-09-11</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">9</td>
+		<td>탑코미디어</td>
+		<td style='mso-number-format: "@";text-align:center;'>
+			134580
+		</td>
+		<td>소수계좌 매수관여 과다</td>
+		<td style="text-align:center;">2026-09-10</td>
+		<td style="text-align:center;">2026-09-11</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">8</td>
+		<td>페니트리움바이오</td>
+		<td style='mso-number-format: "@";text-align:center;'>
+			187660
+		</td>
+		<td>투자경고 지정예고</td>
+		<td style="text-align:center;">2026-09-10</td>
+		<td style="text-align:center;">2026-09-11</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">7</td>
+		<td>한주라이트메탈</td>
+		<td style='mso-number-format: "@";text-align:center;'>
+			198940
+		</td>
+		<td>소수지점/계좌</td>
+		<td style="text-align:center;">2026-09-10</td>
+		<td style="text-align:center;">2026-09-11</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">6</td>
+		<td>한주라이트메탈</td>
+		<td style='mso-number-format: "@";text-align:center;'>
+			198940
+		</td>
+		<td>매매관여과다종목</td>
+		<td style="text-align:center;">2026-09-10</td>
+		<td style="text-align:center;">2026-09-11</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">5</td>
+		<td>타이거일렉</td>
+		<td style='mso-number-format: "@";text-align:center;'>
+			219130
+		</td>
+		<td>투자경고 지정예고</td>
+		<td style="text-align:center;">2026-09-10</td>
+		<td style="text-align:center;">2026-09-11</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">4</td>
+		<td>플리토</td>
+		<td style='mso-number-format: "@";text-align:center;'>
+			300080
+		</td>
+		<td>소수지점/계좌</td>
+		<td style="text-align:center;">2026-09-10</td>
+		<td style="text-align:center;">2026-09-11</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">3</td>
+		<td>형지글로벌</td>
+		<td style='mso-number-format: "@";text-align:center;'>
+			308100
+		</td>
+		<td>소수지점/계좌</td>
+		<td style="text-align:center;">2026-09-10</td>
+		<td style="text-align:center;">2026-09-11</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">2</td>
+		<td>E8</td>
+		<td style='mso-number-format: "@";text-align:center;'>
+			418620
+		</td>
+		<td>투자경고 지정예고</td>
+		<td style="text-align:center;">2026-09-10</td>
+		<td style="text-align:center;">2026-09-11</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">1</td>
+		<td>테라뷰</td>
+		<td style='mso-number-format: "@";text-align:center;'>
+			950250
+		</td>
+		<td>투자경고 지정예고</td>
+		<td style="text-align:center;">2026-09-10</td>
+		<td style="text-align:center;">2026-09-11</td>
 	</tr>
 			
 		
