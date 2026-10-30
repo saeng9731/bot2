@@ -2557,30 +2557,6 @@
 	</tr>
 			
 	<tr>
-		<td>루트K</td>
-		<td>
-			
-				
-						
-					코스닥
-					
-					
-						
-			
-		</td>
-		<td style="mso-number-format:'@';text-align:center;">195990</td>
-		<td>특수 목적용 기계 제조업</td>
-		<td>소형 머시닝센터</td>
-		<td style="text-align:center;">2015-04-13</td>
-		<td style="text-align:center;">12월</td>
-		<td>김용운</td>
-		<td>
-			http://www.abprobio.co.kr
-		</td>
-		<td >대구광역시</td>
-	</tr>
-			
-	<tr>
 		<td>리튬포어스</td>
 		<td>
 			
@@ -2746,30 +2722,6 @@
 			http://www.choa.co.kr
 		</td>
 		<td >서울특별시</td>
-	</tr>
-			
-	<tr>
-		<td>하이드로리튬</td>
-		<td>
-			
-				
-						
-					코스닥
-					
-					
-						
-			
-		</td>
-		<td style="mso-number-format:'@';text-align:center;">101670</td>
-		<td>구조용 금속제품, 탱크 및 증기발생기 제조업</td>
-		<td>영구앵커,교량용케이블,타이케이블</td>
-		<td style="text-align:center;">2008-07-15</td>
-		<td style="text-align:center;">12월</td>
-		<td>전  웅</td>
-		<td>
-			
-		</td>
-		<td >경기도</td>
 	</tr>
 			
 	<tr>
@@ -5053,30 +5005,6 @@
 	</tr>
 			
 	<tr>
-		<td>KR모터스</td>
-		<td>
-			
-				
-					유가
-				
-					
-					
-						
-			
-		</td>
-		<td style="mso-number-format:'@';text-align:center;">000040</td>
-		<td>그외 기타 운송장비 제조업</td>
-		<td>이륜차(오토바이) 제조,도매</td>
-		<td style="text-align:center;">1976-05-25</td>
-		<td style="text-align:center;">12월</td>
-		<td>정재경</td>
-		<td>
-			http://www.krmotors.com
-		</td>
-		<td >경상남도</td>
-	</tr>
-			
-	<tr>
 		<td>SH에너지화학</td>
 		<td>
 			
@@ -5506,6 +5434,30 @@
 			http://www.scmlifescience.com
 		</td>
 		<td >인천광역시</td>
+	</tr>
+			
+	<tr>
+		<td>하이드로리튬</td>
+		<td>
+			
+				
+						
+					코스닥
+					
+					
+						
+			
+		</td>
+		<td style="mso-number-format:'@';text-align:center;">101670</td>
+		<td>구조용 금속제품, 탱크 및 증기발생기 제조업</td>
+		<td>영구앵커,교량용케이블,타이케이블</td>
+		<td style="text-align:center;">2008-07-15</td>
+		<td style="text-align:center;">12월</td>
+		<td>전  웅</td>
+		<td>
+			
+		</td>
+		<td >경기도</td>
 	</tr>
 			
 	<tr>
@@ -7909,6 +7861,30 @@
 	</tr>
 			
 	<tr>
+		<td>메타케어</td>
+		<td>
+			
+				
+					유가
+				
+					
+					
+						
+			
+		</td>
+		<td style="mso-number-format:'@';text-align:center;">118000</td>
+		<td>기계장비 및 관련 물품 도매업</td>
+		<td>의약품, 의료소모품, 의료기기 도매</td>
+		<td style="text-align:center;">2009-12-30</td>
+		<td style="text-align:center;">12월</td>
+		<td>이수진</td>
+		<td>
+			http://www.meta-care.co.kr
+		</td>
+		<td >경기도</td>
+	</tr>
+			
+	<tr>
 		<td>에이엔피</td>
 		<td>
 			
@@ -8146,6 +8122,30 @@
 			http://www.kpt4u.com
 		</td>
 		<td >경기도</td>
+	</tr>
+			
+	<tr>
+		<td>크린앤사이언스</td>
+		<td>
+			
+				
+						
+					코스닥
+					
+					
+						
+			
+		</td>
+		<td style="mso-number-format:'@';text-align:center;">045520</td>
+		<td>일반 목적용 기계 제조업</td>
+		<td>자동차용 여과지</td>
+		<td style="text-align:center;">2000-12-05</td>
+		<td style="text-align:center;">12월</td>
+		<td>곽규범</td>
+		<td>
+			http://www.cands.co.kr
+		</td>
+		<td >서울특별시</td>
 	</tr>
 			
 	<tr>
@@ -10501,7 +10501,7 @@
 	</tr>
 			
 	<tr>
-		<td>메타케어</td>
+		<td>KR모터스</td>
 		<td>
 			
 				
@@ -10512,16 +10512,16 @@
 						
 			
 		</td>
-		<td style="mso-number-format:'@';text-align:center;">118000</td>
-		<td>기계장비 및 관련 물품 도매업</td>
-		<td>의약품, 의료소모품, 의료기기 도매</td>
-		<td style="text-align:center;">2009-12-30</td>
+		<td style="mso-number-format:'@';text-align:center;">000040</td>
+		<td>그외 기타 운송장비 제조업</td>
+		<td>이륜차(오토바이) 제조,도매</td>
+		<td style="text-align:center;">1976-05-25</td>
 		<td style="text-align:center;">12월</td>
-		<td>이수진</td>
+		<td>정재경</td>
 		<td>
-			http://www.meta-care.co.kr
+			http://www.krmotors.com
 		</td>
-		<td >경기도</td>
+		<td >대전광역시</td>
 	</tr>
 			
 	<tr>
@@ -10666,6 +10666,30 @@
 			http://duoback.co.kr
 		</td>
 		<td >인천광역시</td>
+	</tr>
+			
+	<tr>
+		<td>랩지노믹스</td>
+		<td>
+			
+				
+						
+					코스닥
+					
+					
+						
+			
+		</td>
+		<td style="mso-number-format:'@';text-align:center;">084650</td>
+		<td>자연과학 및 공학 연구개발업</td>
+		<td> 체외진단 서비스 및 제품 </td>
+		<td style="text-align:center;">2014-12-16</td>
+		<td style="text-align:center;">12월</td>
+		<td>류재학 대표이사</td>
+		<td>
+			http://www.labgenomics.co.kr
+		</td>
+		<td >경기도</td>
 	</tr>
 			
 	<tr>
@@ -10837,30 +10861,6 @@
 	</tr>
 			
 	<tr>
-		<td>에스앤더블류</td>
-		<td>
-			
-				
-						
-					코스닥
-					
-					
-						
-			
-		</td>
-		<td style="mso-number-format:'@';text-align:center;">103230</td>
-		<td>일반 목적용 기계 제조업</td>
-		<td>디젤엔진부품, 산업부품, 단조품</td>
-		<td style="text-align:center;">2009-08-05</td>
-		<td style="text-align:center;">12월</td>
-		<td>정우진</td>
-		<td>
-			http://www.snwcorp.com
-		</td>
-		<td >부산광역시</td>
-	</tr>
-			
-	<tr>
 		<td>엔케이젠바이오텍코리아</td>
 		<td>
 			
@@ -10880,30 +10880,6 @@
 		<td>김용만</td>
 		<td>
 			http://www.nkmax.com
-		</td>
-		<td >경기도</td>
-	</tr>
-			
-	<tr>
-		<td>예선테크</td>
-		<td>
-			
-				
-						
-					코스닥
-					
-					
-						
-			
-		</td>
-		<td style="mso-number-format:'@';text-align:center;">250930</td>
-		<td>플라스틱제품 제조업</td>
-		<td>기업인수합병</td>
-		<td style="text-align:center;">2016-09-29</td>
-		<td style="text-align:center;">12월</td>
-		<td>전춘섭</td>
-		<td>
-			
 		</td>
 		<td >경기도</td>
 	</tr>
@@ -14101,7 +14077,7 @@
 	</tr>
 			
 	<tr>
-		<td>랩지노믹스</td>
+		<td>롤링스톤</td>
 		<td>
 			
 				
@@ -14112,14 +14088,14 @@
 						
 			
 		</td>
-		<td style="mso-number-format:'@';text-align:center;">084650</td>
-		<td>자연과학 및 공학 연구개발업</td>
-		<td> 체외진단 서비스 및 제품 </td>
-		<td style="text-align:center;">2014-12-16</td>
+		<td style="mso-number-format:'@';text-align:center;">214610</td>
+		<td>의료용 기기 제조업</td>
+		<td>체외진단용 의료기기</td>
+		<td style="text-align:center;">2020-10-22</td>
 		<td style="text-align:center;">12월</td>
-		<td>류재학 대표이사</td>
+		<td>이재성</td>
 		<td>
-			http://www.labgenomics.co.kr
+			http://www.rolling-stone.co.kr
 		</td>
 		<td >경기도</td>
 	</tr>
@@ -14482,6 +14458,30 @@
 			http://www.tobesoft.com
 		</td>
 		<td >서울특별시</td>
+	</tr>
+			
+	<tr>
+		<td>프롬바이오</td>
+		<td>
+			
+				
+						
+					코스닥
+					
+					
+						
+			
+		</td>
+		<td style="mso-number-format:'@';text-align:center;">377220</td>
+		<td>기타 식품 제조업</td>
+		<td>개별인정형 건강기능식품</td>
+		<td style="text-align:center;">2021-09-28</td>
+		<td style="text-align:center;">12월</td>
+		<td>심태진</td>
+		<td>
+			http://frombio-company.co.kr
+		</td>
+		<td >경기도</td>
 	</tr>
 			
 	<tr>
@@ -17725,30 +17725,6 @@
 	</tr>
 			
 	<tr>
-		<td>형지I&C</td>
-		<td>
-			
-				
-						
-					코스닥
-					
-					
-						
-			
-		</td>
-		<td style="mso-number-format:'@';text-align:center;">011080</td>
-		<td>봉제의복 제조업</td>
-		<td>의복, 악세사리</td>
-		<td style="text-align:center;">2004-07-02</td>
-		<td style="text-align:center;">12월</td>
-		<td>최혜원</td>
-		<td>
-			http://www.hyungjiinc.com
-		</td>
-		<td >인천광역시</td>
-	</tr>
-			
-	<tr>
 		<td>GPS</td>
 		<td>
 			
@@ -20173,6 +20149,30 @@
 	</tr>
 			
 	<tr>
+		<td>코아스</td>
+		<td>
+			
+				
+					유가
+				
+					
+					
+						
+			
+		</td>
+		<td style="mso-number-format:'@';text-align:center;">071950</td>
+		<td>가구 제조업</td>
+		<td>사무용가구,금속가구 도매,제조</td>
+		<td style="text-align:center;">2005-08-04</td>
+		<td style="text-align:center;">12월</td>
+		<td>임재철</td>
+		<td>
+			http://www.ikoas.com
+		</td>
+		<td >서울특별시</td>
+	</tr>
+			
+	<tr>
 		<td>콘텐트리중앙</td>
 		<td>
 			
@@ -20341,6 +20341,30 @@
 	</tr>
 			
 	<tr>
+		<td>루트K</td>
+		<td>
+			
+				
+						
+					코스닥
+					
+					
+						
+			
+		</td>
+		<td style="mso-number-format:'@';text-align:center;">195990</td>
+		<td>특수 목적용 기계 제조업</td>
+		<td>소형 머시닝센터</td>
+		<td style="text-align:center;">2015-04-13</td>
+		<td style="text-align:center;">12월</td>
+		<td>김용운</td>
+		<td>
+			http://www.abprobio.co.kr
+		</td>
+		<td >대구광역시</td>
+	</tr>
+			
+	<tr>
 		<td>셀피글로벌</td>
 		<td>
 			
@@ -20437,6 +20461,30 @@
 	</tr>
 			
 	<tr>
+		<td>에스앤더블류</td>
+		<td>
+			
+				
+						
+					코스닥
+					
+					
+						
+			
+		</td>
+		<td style="mso-number-format:'@';text-align:center;">103230</td>
+		<td>일반 목적용 기계 제조업</td>
+		<td>디젤엔진부품, 산업부품, 단조품</td>
+		<td style="text-align:center;">2009-08-05</td>
+		<td style="text-align:center;">12월</td>
+		<td>정우진, 정재우</td>
+		<td>
+			http://www.snwcorp.com
+		</td>
+		<td >부산광역시</td>
+	</tr>
+			
+	<tr>
 		<td>에스제이그룹</td>
 		<td>
 			
@@ -20482,6 +20530,30 @@
 			http://www.essentech.co.kr
 		</td>
 		<td >전북특별자치도</td>
+	</tr>
+			
+	<tr>
+		<td>예선테크</td>
+		<td>
+			
+				
+						
+					코스닥
+					
+					
+						
+			
+		</td>
+		<td style="mso-number-format:'@';text-align:center;">250930</td>
+		<td>플라스틱제품 제조업</td>
+		<td>기업인수합병</td>
+		<td style="text-align:center;">2016-09-29</td>
+		<td style="text-align:center;">12월</td>
+		<td>전춘섭</td>
+		<td>
+			
+		</td>
+		<td >경기도</td>
 	</tr>
 			
 	<tr>
@@ -20650,6 +20722,30 @@
 			
 		</td>
 		<td >서울특별시</td>
+	</tr>
+			
+	<tr>
+		<td>형지I&C</td>
+		<td>
+			
+				
+						
+					코스닥
+					
+					
+						
+			
+		</td>
+		<td style="mso-number-format:'@';text-align:center;">011080</td>
+		<td>봉제의복 제조업</td>
+		<td>의복, 악세사리</td>
+		<td style="text-align:center;">2004-07-02</td>
+		<td style="text-align:center;">12월</td>
+		<td>최혜원</td>
+		<td>
+			http://www.hyungjiinc.com
+		</td>
+		<td >인천광역시</td>
 	</tr>
 			
 	<tr>
@@ -23654,30 +23750,6 @@
 	</tr>
 			
 	<tr>
-		<td>롤링스톤</td>
-		<td>
-			
-				
-						
-					코스닥
-					
-					
-						
-			
-		</td>
-		<td style="mso-number-format:'@';text-align:center;">214610</td>
-		<td>의료용 기기 제조업</td>
-		<td>체외진단용 의료기기</td>
-		<td style="text-align:center;">2020-10-22</td>
-		<td style="text-align:center;">12월</td>
-		<td>이재성</td>
-		<td>
-			http://www.micobiomed.com
-		</td>
-		<td >경기도</td>
-	</tr>
-			
-	<tr>
 		<td>모바일어플라이언스</td>
 		<td>
 			
@@ -24134,30 +24206,6 @@
 	</tr>
 			
 	<tr>
-		<td>크린앤사이언스</td>
-		<td>
-			
-				
-						
-					코스닥
-					
-					
-						
-			
-		</td>
-		<td style="mso-number-format:'@';text-align:center;">045520</td>
-		<td>일반 목적용 기계 제조업</td>
-		<td>자동차용 여과지</td>
-		<td style="text-align:center;">2000-12-05</td>
-		<td style="text-align:center;">12월</td>
-		<td>곽규범</td>
-		<td>
-			http://www.cands.co.kr
-		</td>
-		<td >서울특별시</td>
-	</tr>
-			
-	<tr>
 		<td>티케이지애강</td>
 		<td>
 			
@@ -24227,30 +24275,6 @@
 			http://www.phionx.com
 		</td>
 		<td >미국</td>
-	</tr>
-			
-	<tr>
-		<td>프롬바이오</td>
-		<td>
-			
-				
-						
-					코스닥
-					
-					
-						
-			
-		</td>
-		<td style="mso-number-format:'@';text-align:center;">377220</td>
-		<td>기타 식품 제조업</td>
-		<td>개별인정형 건강기능식품</td>
-		<td style="text-align:center;">2021-09-28</td>
-		<td style="text-align:center;">12월</td>
-		<td>심태진</td>
-		<td>
-			http://frombio-company.co.kr
-		</td>
-		<td >경기도</td>
 	</tr>
 			
 	<tr>
