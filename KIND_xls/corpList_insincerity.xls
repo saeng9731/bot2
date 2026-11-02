@@ -181,30 +181,6 @@
 	</tr>
 			
 	<tr>
-		<td>대양금속</td>
-		<td>
-			
-				
-					유가
-				
-					
-					
-						
-			
-		</td>
-		<td style="mso-number-format:'@';text-align:center;">009190</td>
-		<td>1차 철강 제조업</td>
-		<td>스테인레스 냉연강판 제조</td>
-		<td style="text-align:center;">1994-04-29</td>
-		<td style="text-align:center;">12월</td>
-		<td>조상종, 김광일(각자대표이사)</td>
-		<td>
-			http://www.daiyangmetal.co.kr
-		</td>
-		<td >충청남도</td>
-	</tr>
-			
-	<tr>
 		<td>네오퍼플</td>
 		<td>
 			
@@ -346,6 +322,54 @@
 			http://www.konics.co.kr
 		</td>
 		<td >인천광역시</td>
+	</tr>
+			
+	<tr>
+		<td>대양금속</td>
+		<td>
+			
+				
+					유가
+				
+					
+					
+						
+			
+		</td>
+		<td style="mso-number-format:'@';text-align:center;">009190</td>
+		<td>1차 철강 제조업</td>
+		<td>스테인레스 냉연강판 제조</td>
+		<td style="text-align:center;">1994-04-29</td>
+		<td style="text-align:center;">12월</td>
+		<td>조상종, 김광일(각자대표이사)</td>
+		<td>
+			http://www.daiyangmetal.co.kr
+		</td>
+		<td >충청남도</td>
+	</tr>
+			
+	<tr>
+		<td>캐리</td>
+		<td>
+			
+				
+						
+					코스닥
+					
+					
+						
+			
+		</td>
+		<td style="mso-number-format:'@';text-align:center;">313760</td>
+		<td>전동기, 발전기 및 전기 변환 · 공급 · 제어 장치 제조업</td>
+		<td>태양광 인버터 등</td>
+		<td style="text-align:center;">2019-07-25</td>
+		<td style="text-align:center;">12월</td>
+		<td>김용선</td>
+		<td>
+			http://www.willings.co.kr
+		</td>
+		<td >경기도</td>
 	</tr>
 			
 	<tr>
@@ -541,7 +565,7 @@
 	</tr>
 			
 	<tr>
-		<td>캐리</td>
+		<td>하이퍼코퍼레이션</td>
 		<td>
 			
 				
@@ -552,16 +576,16 @@
 						
 			
 		</td>
-		<td style="mso-number-format:'@';text-align:center;">313760</td>
-		<td>전동기, 발전기 및 전기 변환 · 공급 · 제어 장치 제조업</td>
-		<td>태양광 인버터 등</td>
-		<td style="text-align:center;">2019-07-25</td>
+		<td style="mso-number-format:'@';text-align:center;">065650</td>
+		<td>기계장비 및 관련 물품 도매업</td>
+		<td>음반재킷 제작</td>
+		<td style="text-align:center;">2003-01-21</td>
 		<td style="text-align:center;">12월</td>
-		<td>김용선</td>
+		<td>이상석, 안은철(공동대표이사)</td>
 		<td>
-			http://www.willings.co.kr
+			http://medifon.com
 		</td>
-		<td >경기도</td>
+		<td >서울특별시</td>
 	</tr>
 			
 	<tr>
@@ -682,30 +706,6 @@
 			http://www.karissoft.co.kr
 		</td>
 		<td >경상남도</td>
-	</tr>
-			
-	<tr>
-		<td>빅텐츠</td>
-		<td>
-			
-				
-						
-					코스닥
-					
-					
-						
-			
-		</td>
-		<td style="mso-number-format:'@';text-align:center;">210120</td>
-		<td>영화, 비디오물, 방송프로그램 제작 및 배급업</td>
-		<td>방송영상 제작, 공급</td>
-		<td style="text-align:center;">2023-08-17</td>
-		<td style="text-align:center;">12월</td>
-		<td>김상진</td>
-		<td>
-			http://victents.com
-		</td>
-		<td >서울특별시</td>
 	</tr>
 			
 	<tr>
@@ -872,30 +872,6 @@
 		<td>박진호</td>
 		<td>
 			http://www.namotek.co.kr
-		</td>
-		<td >경기도</td>
-	</tr>
-			
-	<tr>
-		<td>마이크로디지탈</td>
-		<td>
-			
-				
-						
-					코스닥
-					
-					
-						
-			
-		</td>
-		<td style="mso-number-format:'@';text-align:center;">305090</td>
-		<td>의료용 기기 제조업</td>
-		<td>바이오 분석 시스템, 메디칼 자동화 시스템</td>
-		<td style="text-align:center;">2019-06-05</td>
-		<td style="text-align:center;">12월</td>
-		<td>김경남</td>
-		<td>
-			http://www.md-best.com
 		</td>
 		<td >경기도</td>
 	</tr>
@@ -1189,6 +1165,78 @@
 	</tr>
 			
 	<tr>
+		<td>마이크로디지탈</td>
+		<td>
+			
+				
+						
+					코스닥
+					
+					
+						
+			
+		</td>
+		<td style="mso-number-format:'@';text-align:center;">305090</td>
+		<td>의료용 기기 제조업</td>
+		<td>바이오 분석 시스템, 메디칼 자동화 시스템</td>
+		<td style="text-align:center;">2019-06-05</td>
+		<td style="text-align:center;">12월</td>
+		<td>김경남</td>
+		<td>
+			http://www.md-best.com
+		</td>
+		<td >경기도</td>
+	</tr>
+			
+	<tr>
+		<td>빅텐츠</td>
+		<td>
+			
+				
+						
+					코스닥
+					
+					
+						
+			
+		</td>
+		<td style="mso-number-format:'@';text-align:center;">210120</td>
+		<td>영화, 비디오물, 방송프로그램 제작 및 배급업</td>
+		<td>방송영상 제작, 공급</td>
+		<td style="text-align:center;">2023-08-17</td>
+		<td style="text-align:center;">12월</td>
+		<td>김상진</td>
+		<td>
+			http://victents.com
+		</td>
+		<td >서울특별시</td>
+	</tr>
+			
+	<tr>
+		<td>알파AI</td>
+		<td>
+			
+				
+						
+					코스닥
+					
+					
+						
+			
+		</td>
+		<td style="mso-number-format:'@';text-align:center;">043100</td>
+		<td>의료용 기기 제조업</td>
+		<td>가정용 온열치료기, 의료기구</td>
+		<td style="text-align:center;">2000-08-08</td>
+		<td style="text-align:center;">12월</td>
+		<td>문성민</td>
+		<td>
+			http://www.solco.co.kr
+		</td>
+		<td >경기도</td>
+	</tr>
+			
+	<tr>
 		<td>세림아이텍</td>
 		<td>
 			
@@ -1280,54 +1328,6 @@
 		<td>최경주</td>
 		<td>
 			http://WWW.ERONTECH.CO.KR
-		</td>
-		<td >서울특별시</td>
-	</tr>
-			
-	<tr>
-		<td>알파AI</td>
-		<td>
-			
-				
-						
-					코스닥
-					
-					
-						
-			
-		</td>
-		<td style="mso-number-format:'@';text-align:center;">043100</td>
-		<td>의료용 기기 제조업</td>
-		<td>가정용 온열치료기, 의료기구</td>
-		<td style="text-align:center;">2000-08-08</td>
-		<td style="text-align:center;">12월</td>
-		<td>문성민</td>
-		<td>
-			http://www.solco.co.kr
-		</td>
-		<td >경기도</td>
-	</tr>
-			
-	<tr>
-		<td>하이퍼코퍼레이션</td>
-		<td>
-			
-				
-						
-					코스닥
-					
-					
-						
-			
-		</td>
-		<td style="mso-number-format:'@';text-align:center;">065650</td>
-		<td>기계장비 및 관련 물품 도매업</td>
-		<td>음반재킷 제작</td>
-		<td style="text-align:center;">2003-01-21</td>
-		<td style="text-align:center;">12월</td>
-		<td>이상석, 안은철(공동대표이사)</td>
-		<td>
-			http://medifon.com
 		</td>
 		<td >서울특별시</td>
 	</tr>
