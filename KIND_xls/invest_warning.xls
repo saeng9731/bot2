@@ -34,6 +34,17 @@
 			
 	<tr>
 		<td style="text-align:center;">10</td>
+		<td>대동금속</td>
+		<td style='mso-number-format: "@";text-align:center;'>
+			020400
+		</td>		
+		<td style="text-align:center;">2026-11-06</td>
+		<td style="text-align:center;">2026-11-09</td>
+		<td style="text-align:center;">-</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">9</td>
 		<td>한진칼우</td>
 		<td style='mso-number-format: "@";text-align:center;'>
 			18064K
@@ -44,7 +55,7 @@
 	</tr>
 			
 	<tr>
-		<td style="text-align:center;">9</td>
+		<td style="text-align:center;">8</td>
 		<td>진양화학</td>
 		<td style='mso-number-format: "@";text-align:center;'>
 			051630
@@ -55,40 +66,40 @@
 	</tr>
 			
 	<tr>
-		<td style="text-align:center;">8</td>
+		<td style="text-align:center;">7</td>
 		<td>에이전트AI</td>
 		<td style='mso-number-format: "@";text-align:center;'>
 			060900
 		</td>		
 		<td style="text-align:center;">2026-10-26</td>
 		<td style="text-align:center;">2026-10-27</td>
-		<td style="text-align:center;">-</td>
+		<td style="text-align:center;">2026-11-10</td>
 	</tr>
 			
 	<tr>
-		<td style="text-align:center;">7</td>
+		<td style="text-align:center;">6</td>
 		<td>넥사다이내믹스</td>
 		<td style='mso-number-format: "@";text-align:center;'>
 			351320
 		</td>		
 		<td style="text-align:center;">2026-10-23</td>
 		<td style="text-align:center;">2026-10-26</td>
-		<td style="text-align:center;">-</td>
+		<td style="text-align:center;">2026-11-09</td>
 	</tr>
 			
 	<tr>
-		<td style="text-align:center;">6</td>
+		<td style="text-align:center;">5</td>
 		<td>디케이티</td>
 		<td style='mso-number-format: "@";text-align:center;'>
 			290550
 		</td>		
 		<td style="text-align:center;">2026-10-23</td>
 		<td style="text-align:center;">2026-10-26</td>
-		<td style="text-align:center;">-</td>
+		<td style="text-align:center;">2026-11-09</td>
 	</tr>
 			
 	<tr>
-		<td style="text-align:center;">5</td>
+		<td style="text-align:center;">4</td>
 		<td>뉴인텍</td>
 		<td style='mso-number-format: "@";text-align:center;'>
 			012340
@@ -99,7 +110,7 @@
 	</tr>
 			
 	<tr>
-		<td style="text-align:center;">4</td>
+		<td style="text-align:center;">3</td>
 		<td>에이엔피</td>
 		<td style='mso-number-format: "@";text-align:center;'>
 			015260
@@ -107,17 +118,6 @@
 		<td style="text-align:center;">2026-10-15</td>
 		<td style="text-align:center;">2026-10-16</td>
 		<td style="text-align:center;">-</td>
-	</tr>
-			
-	<tr>
-		<td style="text-align:center;">3</td>
-		<td>바이오인프라</td>
-		<td style='mso-number-format: "@";text-align:center;'>
-			199730
-		</td>		
-		<td style="text-align:center;">2026-10-13</td>
-		<td style="text-align:center;">2026-10-14</td>
-		<td style="text-align:center;">2026-11-02</td>
 	</tr>
 			
 	<tr>
